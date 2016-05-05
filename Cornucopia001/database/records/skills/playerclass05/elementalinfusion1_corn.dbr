@@ -1,0 +1,4 @@
+buffSkillName,records/skills/playerclass05/elementalinfusion1_buff_corn.dbr,
+Class,Skill_BuffRadiusToggled,
+templateName,database/templates/skill_buffradiustoggled.tpl,
+instantCast,0,
