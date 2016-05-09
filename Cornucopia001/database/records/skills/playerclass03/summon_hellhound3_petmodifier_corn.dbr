@@ -1,3 +1,6 @@
 templateName,database/templates/skillsecondary_petmodifier.tpl,
+ActorName,,
 Class,SkillSecondary_PetModifier,
-petSkillName,records/skills/playerclass03/pets/petskill_hellhound_hellfireaura.dbr,
+FileDescription,,
+petSkillName,records/skills/playerclass03/pets/petskill_hellhound_hellfireaura_corn.dbr,
+petChanges,,
