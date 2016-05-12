@@ -389,8 +389,8 @@ tagClass04SkillName04A=Ring of Steel
 tagClass04SkillDescription04A=In the blink of an eye, hundreds of phantasmal blades encircle you at lethal speed, cutting down adjacent foes.
 tagClass04SkillName04B=Circle of Slaughter
 tagClass04SkillDescription04B=Vicious phantasmal blades slice deep into foes caught within the ring, spilling copious amounts of blood.
-tagClass04SkillName04C=Ring of Frost
-tagClass04SkillDescription04C=A powerful pneumatic technique causes the ring of steel to draw energy from the nearby air, magnifying cold damage and freezing foes but at the cost of piercing damage.
+tagClass04SkillName04C=Ring of Venom
+tagClass04SkillDescription04C=A powerful pneumatic technique causes the ring of steel to draw energy from the nearby air, magnifying cold damage and freezing foes but at the cost of piercing damage. ^olol no it converts Pierce to Acid kekekekekek
 
 tagClass04SkillName05A=Dual Blades
 tagClass04SkillDescription05A=Among the most fundamental skills of the Nightblade are the mastery of melee dual wielding, favoring the use of piercing blades, and the art of drawing elemental cold from iron and steel. ^oThis is a melee dual-wielding bonus. Also enables the ability to dual wield melee weapons.
