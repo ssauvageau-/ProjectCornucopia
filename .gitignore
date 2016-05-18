@@ -1,5 +1,7 @@
 *.arz
 *.arc
+*.zip
 ModdingTutorial/*
 combomodv7/*
 grimmest/*
+grimmestcornucopia/*
