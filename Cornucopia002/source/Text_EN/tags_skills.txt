@@ -87,7 +87,7 @@ tagClass01SkillName00A=Soldier
 tagClass01SkillDescription00A=Intense physical conditioning necessary to brave the harsh reality of Cairn.
 
 tagClass01SkillName01A=Cadence
-tagClass01SkillDescription01A=The use of weapon forms in combat gives your attacks a natural cadence with peaks and ebbs that, while predictable, are none the less effective and difficult to counter.  ^oWhen used as your default weapon attack, Cadence will magnify the power of every 5th strike.
+tagClass01SkillDescription01A=The use of weapon forms in combat gives your attacks a natural cadence with peaks and ebbs that, while predictable, are none the less effective and difficult to counter.  ^oWhen used as your default weapon attack, Cadence will magnify the power of periodic strikes.
 tagClass01SkillName01B=Fighting Form
 tagClass01SkillDescription01B=The fury of Cadence resonates with the target, causing heavy bleeding and striking additional nearby targets. ^oWith ranged weapons, Cadence will fire additional projectiles and has a chance to pierce through enemies.
 tagClass01SkillName01C=Deadly Momentum
@@ -274,8 +274,8 @@ tagClass03SkillName01C=Mend Flesh
 tagClass03SkillDescription01C=The raven channels eldritch energies to mend the flesh of wounded allies.
 tagClass03SkillName01D=Storm Spirit
 tagClass03SkillDescription01D=The raven projects its eldritch spirit into selected allies, empowering them beyond their mortal means.
-tagClass03SkillName01E=Lightning Strike
-tagClass03SkillDescription01E=The storm raven calls forth a powerful lightning bolt to electrocute nearby foes.
+tagClass03SkillName01E=Lightning Storm
+tagClass03SkillDescription01E=The storm raven calls forth a powerful lightning storm to electrocute swaths of foes.
 
 tagClass03SkillName02A=Summon Hellhound
 tagClass03SkillDescription02A=Calls forth a hellhound from the eldritch realms to savage the Occultist's enemies. This vicious beast will battle alongside you until its life is extinguished in a blazing inferno. ^oOnly one hellhound can be summoned at any one time. The hellhound scales with Pet Bonuses.
