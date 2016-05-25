@@ -11,7 +11,7 @@ augmentMasteryName1,records/skills/playerclass02/_classtraining_class02_corn.dbr
 augmentSkillLevel1,3,
 augmentSkillLevel2,1,
 augmentSkillName1,records/skills/playerclass03/summon_hellhound3_petmodifier_corn.dbr,
-augmentSkillName2,records/skills/playerclass02/thermitemines2_petmod.dbr,
+augmentSkillName2,records/skills/playerclass02/thermitemines2_petmod_corn.dbr,
 bitmap,items/gearweapons/caster/bitmaps/d012_dagger.tex,
 cannotPickUp,0,
 cannotPickUpMultiple,0,
