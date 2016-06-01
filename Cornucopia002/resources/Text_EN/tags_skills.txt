@@ -94,8 +94,8 @@ tagClass01SkillName01C=Deadly Momentum
 tagClass01SkillDescription01C=You push the advantage following a Cadence strike, briefly causing all of your blows to strike with additional deadly force. ^oDeadly Momentum affects all attacks while active.
 tagClass01SkillName01D=Discord
 tagClass01SkillDescription01D=The discord of a wrathful soul flows into the Soldier's pure fighting cadence and sows it with elemental energy.
-tagClass01SkillName01E=Ravage
-tagClass01SkillDescription01E=Insurmountable force pummels the area around you, crushing all nearby enemies in an even greater strike and sapping them of their life-force. ^oRequires a melee weapon.
+tagClass01SkillName01E=Shred
+tagClass01SkillDescription01E=For Sheriff Harmon Griffith, bringing law to the lands of Burrwitch sometimes meant cutting down several faraway criminals at once. ^oRequires a ranged weapon.
 
 tagClass01SkillName02A=Forcewave
 tagClass01SkillDescription02A=Such force is channeled into the attack that it compresses the very air, projecting out a wave of energy that stuns and damages foes. ^oThis attack requires a shield or two-handed melee weapon.
