@@ -68,7 +68,7 @@ suffixTableName6,records/items/lootaffixes/suffix/suffixtables/suffixa01_reflect
 suffixTableName7,records/items/lootaffixes/suffix/suffixtables/suffixa01_off_%damagepairs_ar.dbr,
 suffixTableWeight1,900,
 suffixTableWeight2,1200,
-suffixTableWeight3,700,
+suffixTableWeight3,0,
 suffixTableWeight4,300,
 suffixTableWeight5,300,
 suffixTableWeight6,400,
