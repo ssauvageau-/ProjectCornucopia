@@ -922,6 +922,9 @@ tagItemSkillB043Desc=A soothing calm washes over you, amplifying your body's abi
 tagItemSkillB044Name=Poison Bolt
 tagItemSkillB044Desc=Launches a bolt of toxins at your enemies.
 
+tagItemSkillCornB01Name=Pack Mentality
+tagItemSkillCornB01Desc=Push on with the vigor of a pack of Rifthounds.
+
 tagItemSkillC002Name=Lightning Orb
 tagItemSkillC002Desc=Retaliates with an orb of lightning launched in the attacker's direction, damaging and stunning all in its path.
 
