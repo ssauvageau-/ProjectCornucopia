@@ -1324,6 +1324,9 @@ tagItemSkillC129Desc=Embolden nearby allies with a charismatic cheer.
 tagItemSkillC130Name=Toxic Lob
 tagItemSkillC130Desc=An aura of sickly Miasma swirls around you as if alive. It bombards those who dare attack you with lobs of toxic energy.
 
+tagItemSkillC131Name=Praetorian Loyalty
+tagItemSkillC131Desc=A Praetorian's Loyalty is both a reflection of their steadfast nature and a source of their unwavering strength.
+
 tagItemSkillM005Name=Berserk
 tagItemSkillM005Desc=Enter a berserker state of mind, lashing out with increased ferocity at the cost of survivability.
 
