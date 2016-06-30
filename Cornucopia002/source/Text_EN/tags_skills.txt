@@ -649,7 +649,7 @@ tagClass06SkillName13A=Primal Bond
 tagClass06SkillDescription13A=Embrace your savage side as you seal your bond with Mogdrogen. Creatures from the beast god's domain readily answer your call. ^oThis ability must be toggled to maintain its effect.
 
 tagClass06SkillName14A=Upheaval
-tagClass06SkillDescription14A=Strike with the strength of the earth. Whenever you land a critical strike with your basic weapon attacks, the ground shakes with the force of the blow, reverberating around the point of impact in a shockwave. ^oRequires a two-handed melee weapon activates off of default weapon attacks.
+tagClass06SkillDescription14A=Strike with the strength of the earth. Whenever you land a critical strike with your basic weapon attacks, the ground shakes with the force of the blow, reverberating around the point of impact in a shockwave. ^oRequires a two-handed melee weapon and activates off of default weapon attacks.
 
 tagClass06SkillName15A=Devouring Swarm
 tagClass06SkillDescription15A=Out in the wild, one must do whatever it takes to survive. Some Shaman Conjurers take this lesson to heart by conjuring a voracious swarm which hungrily tears apart anything it comes in contact with, inflicting grievous wounds and exposing vulnerabilities.
@@ -1581,7 +1581,7 @@ tagItemSkillD089Name=Fiendmaster
 tagItemSkillD089Desc=Enact your will upon all your minions, and those of your allies. ^oThis ability must be toggled to maintain its effect.
 
 tagItemSkillD090Name=Fiend's Resolve
-tagItemSkillD090Desc=The fiendish tome fills you with resolve, enabling you to continue the fight.
+tagItemSkillD090Desc=The fiendish effigy fills you with resolve, enabling you to continue the fight.
 
 tagItemSkillD091Name=Final Stop
 tagItemSkillD091Desc=Impale your foe upon the shield's spikes.
@@ -1695,7 +1695,7 @@ tagItemSkillD127Name=Lightning Burst
 tagItemSkillD127Desc=Static energy builds up within you before erupting in a burst of shocking orbs.
 
 tagItemSkillD128Name=Mark of Ch'thon
-tagItemSkillD128Desc=Curse your foes a deadly mark of power that visits all of the void's horrors upon them.
+tagItemSkillD128Desc=Curse your foes with a deadly mark of power that visits all of the void's horrors upon them.
 
 tagItemSkillD129Name=Mark of Death
 tagItemSkillD129Desc=Mark your foe for an imminent death.
@@ -2019,13 +2019,19 @@ tagItemSkillD235Name=Anasteria's Devastation
 tagItemSkillD235Desc=This technique tears a rift in reality through which fall embers of raw arcane energy. ^oRequires a Caster Off-Hand. Embers continue to fall over the duration of the spell.
 
 tagItemSkillD236Name=Justicar's Guard
-tagItemSkillD236Desc=The Grand Arbiter stands resolute against any blow. ^oThis is a shield passive bonus.
+tagItemSkillD236Desc=The Grand Arbiter stands resolute against any blow. ^oThis is a melee passive bonus.
 
 tagItemSkillD237Name=Justicar's Vengeance
-tagItemSkillD237Desc=Horvald seldom uttered a word, instead letting his shield do the talking. ^oThis is a shield passive bonus.
+tagItemSkillD237Desc=Horvald seldom uttered a word, instead letting his weapon do the talking. ^oThis is a melee passive bonus.
 
 tagItemSkillD238Name=Power of the Gazer
 tagItemSkillD238Desc=The power of the Gazer flows through you.
+
+tagItemSkillD239Name=Black Flame
+tagItemSkillD239Desc=A patch of Eldritch flames erupts underneath your foes.
+
+tagItemSkillD240Name=Mad Queen's Bite
+tagItemSkillD240Desc=Lash out desperately at nearby foes, driving your blade deep.
 
 tagItemSkillFailName=Failchantment
 tagItemSkillFailDesc=Fail a little harder.
@@ -2547,7 +2553,7 @@ tagDevotion_B10Desc=The revenant represents death and misery. It is said that no
 tagDevotion_B11=Solael's Witchblade
 tagDevotion_B11Desc=Solael is said to be the most cruel of the three witch gods, having carved open countless victims with his curved sacrificial blade in his mad pursuit of immortality.
 tagDevotion_B12=Bysmiel's Bonds
-tagDevotion_B12Desc=It is said that Bysmiel, the witch god, was headed to the gallows when he abandoned his mortal form and ascended into the heavens, his broken chains the only sign of his escape.
+tagDevotion_B12Desc=It is said that Bysmiel, the witch god, was headed to the gallows when she abandoned his mortal form and ascended into the heavens, her broken chains the only sign of her escape.
 tagDevotion_B13=Tempest
 tagDevotion_B13Desc=The tempest is said to shine brightest when a dangerous storm looms on the horizon. Children born during a thunderstorm are believed marked for great things.
 tagDevotion_B14=Targo the Builder
@@ -2802,3 +2808,9 @@ tagEnemySkillD01_Desc=The void pulls you apart slowly with chaotic energy.
 
 tagEnemySkillD02=Fire Devil
 tagEnemySkillD02_Desc=The spinning flames singe you.
+
+tagEnemySkillD03=Siphoning Spirit
+tagEnemySkillD03_Desc=A vile spirit haunts you and saps your vitality and regeneration.
+
+tagEnemySkillD04=Eldritch Aura
+tagEnemySkillD04_Desc=Raw eldritch energies surround this crystal, empowering eldritch beings and harming natural life.
