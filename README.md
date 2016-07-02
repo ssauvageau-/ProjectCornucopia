@@ -2,7 +2,7 @@
 Rebalancing Mod for Grim Dawn! Read about it:
 http://grimdawn.com/forums/showthread.php?t=37644
 
-Project Cornucopia's goal is to make Grim Dawn's endgame brutally difficult while also welcoming to as many different character concepts as possible.
+Project Cornucopia's goal is to make Grim Dawn's endgame brutally difficult for experienced players while also welcoming to as many different character concepts as possible.
 
 Its secondary goal is to follow along with the 'vision' that Crate Entertainment, the developers of Grim Dawn, have for the base game. We are not Crate Employees, so changes we make are perhaps not 100% of their vision, but we get a better glimpse of their intended product with every comment they make and every update they release.
 
