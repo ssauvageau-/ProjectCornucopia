@@ -1,7 +1,7 @@
 templateName,database/templates/lootrandomizer.tpl,
 ActorName,,
 Class,LootRandomizer,
-FileDescription,4% Physique, Cunning, Spirit,
+FileDescription,4% Physique Cunning Spirit,
 lootRandomizerName,,
 lootRandomizerJitter,10,
 lootRandomizerCost,0,
