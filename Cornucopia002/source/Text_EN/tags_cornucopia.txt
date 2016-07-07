@@ -1,0 +1,61 @@
+#Skills
+
+tagDevotion_B12=Bysmiel's Bonds
+tagDevotion_B12Desc=It is said that Bysmiel, the witch god, was headed to the gallows when she abandoned his mortal form and ascended into the heavens, her broken chains the only sign of her escape.
+
+tagItemSkillD236Name=Justicar's Guard
+tagItemSkillD236Desc=The Grand Arbiter stands resolute against any blow. ^oThis is a melee passive bonus.
+
+tagItemSkillCornC01Name=Empyrion's Caress
+tagItemSkillCornC01Desc=The light of Empyrion mends the wounds and of nearby allies.
+
+tagItemSkillCornC02Name=Valiant Shout
+tagItemSkillCornC02Desc=Embolden nearby allies with a charismatic cheer.
+
+tagItemSkillCornC03Name=Toxic Lob
+tagItemSkillCornC03Desc=An aura of sickly Miasma swirls around you as if alive. It bombards those who dare attack you with lobs of toxic energy.
+
+tagItemSkillCornC04Name=Praetorian Loyalty
+tagItemSkillCornC04Desc=A Praetorian's Loyalty is both a reflection of their steadfast nature and a source of their unwavering strength.
+
+tagItemSkillCornB01Name=Pack Mentality
+tagItemSkillCornB01Desc=Push on with the vigor of a pack of Rifthounds.
+
+tagClass05SkillName16A=Olexra's Flash Freeze
+tagClass05SkillDescription16A=A victim of political intrigue, Olexra was condemned to the Black Legion where her former life of arcane academia turned into a bitter struggle to survive on the frontlines of a brutal war. Olexra quickly put her studies to practical use, developing a technique to flash freeze enemies who made it within striking distance. ^oThis spell freezes enemies for its duration. Enemies resistant to freeze effects will freeze intermittingly, if at all, but will endure the full duration of the other debuffs.
+
+tagClass05SkillName02D=Manifestation
+tagClass05SkillDescription02D=Arcane energies manifest in many forms. Arcanists do, too; many who delve into the art of summoning often transfer some of their power to their loyal minions so that they can better serve the will of their masters. ^oRemoves the radius component from IEE (undisplayed in tooltip, but it works).
+
+tagClass04SkillName04C=Ring of Venom
+tagClass04SkillDescription04C=A powerful pneumatic technique causes the ring of steel to draw energy from the nearby air, translating one's piercing damage into alchemically enhanced acid damage, whilst also petrifying afflicted enemies.
+
+tagClass03SkillName01E=Lightning Storm
+tagClass03SkillDescription01E=The storm raven calls forth a powerful lightning storm to electrocute swaths of foes.
+
+tagClass02SkillName09C=Quick Jacks
+tagClass02SkillDescription09C=Quick Jacks lose most of the stopping power of Stun Jacks but can be thrown in rapid succession to spread devastating electrical damage among large packs of foes.
+
+tagClass02SkillName08D=High Potency
+tagClass02SkillDescription08D=This more potent formulation degrades your foes' ability to fight.
+
+tagClass02SkillName07B=Ulzuin's Chosen
+tagClass02SkillDescription07B=Those who have sacrificed much in the pursuit of pyrotechnics eventually come to be favored by Ulzuin, receiving his blessing in wreaking fiery devastation upon the world. Taking on this blessing empowers and hastens your attacks, all while consuming nearby enemies in thermovoltaic and entropic fires. ^oThe flat damage applies to enemies within the given radius of you. The other stats apply to the player character.
+
+tagClass02SkillName05C="The Big One"
+tagClass02SkillDescription05C=Loads the Mortar Trap with a devastating bomb known only as "The Big One", which will fire at the beginning of the trap's barrage. The resulting colossal explosion will leave your enemies shellshocked, if they survive at all.
+
+tagClass02SkillName01C=Skyfire Grenado
+tagClass02SkillDescription01C=When just exploding an enemy is not enough, this alchemical alteration to Grenado's chemistry unleashes a maelstrom of electricity upon detonation in an even larger radius than before.
+
+tagClass01SkillName02B=Rending Force
+tagClass01SkillDescription02B=Forcewave shatters enemy armor and resists, making them more susceptible to physical attacks.
+
+tagClass01SkillName01E=Shred
+tagClass01SkillDescription01E=For Sheriff Harmon Griffith, bringing law to the lands of Burrwitch sometimes meant cutting down several faraway criminals at once. ^oRequires a two-handed ranged weapon.
+
+tagClass01SkillName01B=Fighting Form
+tagClass01SkillDescription01B=The fury of Cadence resonates with the target, causing heavy bleeding and striking additional nearby targets. ^oWith ranged weapons, Cadence will fire additional projectiles and has a chance to pierce through enemies.
+
+tagClass01SkillName01A=Cadence
+tagClass01SkillDescription01A=The use of weapon forms in combat gives your attacks a natural cadence with peaks and ebbs that, while predictable, are none the less effective and difficult to counter.  ^oWhen used as your default weapon attack, Cadence will magnify the power of periodic strikes.

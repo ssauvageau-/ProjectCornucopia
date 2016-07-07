@@ -233,7 +233,7 @@ tagClass02SkillDescription08B=Sorcerous enchantment imbues the flames with chaot
 tagClass02SkillName08C=Agonizing Flames
 tagClass02SkillDescription08C=Intensifies the fire and hellflame to degrees that will render your enemies to ashes.
 tagClass02SkillName08D=High Potency
-tagClass02SkillDescription08D=This more potent formulation degrades your foes ability to fight.
+tagClass02SkillDescription08D=This more potent formulation degrades your foes' ability to fight.
 
 tagClass02SkillName09A=Stun Jacks
 tagClass02SkillDescription09A=Throw out an array of tiny, electrically charged jacks that will temporarily stop enemies in their tracks.
@@ -501,7 +501,7 @@ tagClass05SkillDescription02B=The incantation becomes overloaded with arcane for
 tagClass05SkillName02C=Elemental Balance
 tagClass05SkillDescription02C=Strike a finely-tuned balance within your incantation, harmonizing the opposing forces of fire and ice with wild electricity.
 tagClass05SkillName02D=Manifestation
-tagClass05SkillDescription02D=Arcane energies manifest in many forms. Arcanists do, too; many who delve into the art of summoning often transfer some of their power to their loyal minions so that they can better serve the will of their masters. ^oThis effect is extended to your allies.
+tagClass05SkillDescription02D=Arcane energies manifest in many forms. Arcanists do, too; many who delve into the art of summoning often transfer some of their power to their loyal minions so that they can better serve the will of their masters. ^oRemoves the radius component from IEE (undisplayed in tooltip, but it works).
 
 tagClass05SkillName03A=Trozan's Sky Shard
 tagClass05SkillDescription03A=The mythical Trozan was said to be a natural; wild and unwilling to conform to the doctrines of the Imperial Arcanists. When the Imperials finally surrounded his mountaintop refuge, Trozan humbled them using an unknown technique to bring down the very sky upon them. ^oDrops 3 shards upon the target area.
@@ -1315,17 +1315,17 @@ tagItemSkillC126Desc=Training in the art of field medicine enables you to soothe
 tagItemSkillC127Name=Aether Lightning
 tagItemSkillC127Desc=Lightning infused with pure aether emanates from you and cascades through your foes.
 
-tagItemSkillC128Name=Empyrion's Caress
-tagItemSkillC128Desc=The light of Empyrion mends the wounds and of nearby allies.
+tagItemSkillCornC01Name=Empyrion's Caress
+tagItemSkillCornC01Desc=The light of Empyrion mends the wounds and of nearby allies.
 
-tagItemSkillC129Name=Valiant Shout
-tagItemSkillC129Desc=Embolden nearby allies with a charismatic cheer.
+tagItemSkillCornC02Name=Valiant Shout
+tagItemSkillCornC02Desc=Embolden nearby allies with a charismatic cheer.
 
-tagItemSkillC130Name=Toxic Lob
-tagItemSkillC130Desc=An aura of sickly Miasma swirls around you as if alive. It bombards those who dare attack you with lobs of toxic energy.
+tagItemSkillCornC03Name=Toxic Lob
+tagItemSkillCornC03Desc=An aura of sickly Miasma swirls around you as if alive. It bombards those who dare attack you with lobs of toxic energy.
 
-tagItemSkillC131Name=Praetorian Loyalty
-tagItemSkillC131Desc=A Praetorian's Loyalty is both a reflection of their steadfast nature and a source of their unwavering strength.
+tagItemSkillCornC04Name=Praetorian Loyalty
+tagItemSkillCornC04Desc=A Praetorian's Loyalty is both a reflection of their steadfast nature and a source of their unwavering strength.
 
 tagItemSkillM005Name=Berserk
 tagItemSkillM005Desc=Enter a berserker state of mind, lashing out with increased ferocity at the cost of survivability.
@@ -2553,7 +2553,7 @@ tagDevotion_B10Desc=The revenant represents death and misery. It is said that no
 tagDevotion_B11=Solael's Witchblade
 tagDevotion_B11Desc=Solael is said to be the most cruel of the three witch gods, having carved open countless victims with his curved sacrificial blade in his mad pursuit of immortality.
 tagDevotion_B12=Bysmiel's Bonds
-tagDevotion_B12Desc=It is said that Bysmiel, the witch god, was headed to the gallows when she abandoned his mortal form and ascended into the heavens, her broken chains the only sign of her escape.
+tagDevotion_B12Desc=It is said that Bysmiel, the witch god, was headed to the gallows when she abandoned her mortal form and ascended into the heavens, her broken chains the only sign of her escape.
 tagDevotion_B13=Tempest
 tagDevotion_B13Desc=The tempest is said to shine brightest when a dangerous storm looms on the horizon. Children born during a thunderstorm are believed marked for great things.
 tagDevotion_B14=Targo the Builder
