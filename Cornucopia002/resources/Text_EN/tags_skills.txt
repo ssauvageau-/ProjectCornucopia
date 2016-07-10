@@ -938,7 +938,7 @@ tagItemSkillC004PetSkill01Desc=The guardian roars in challenge, taunting nearby 
 tagItemSkillC004PetSkill02=Innate Attributes
 
 tagItemSkillC005Name=Reckless Guardian
-tagItemSkillC005Desc=Calls forth a guardian with strong attacks.
+tagItemSkillC005Desc=Calls forth a guardian with vicious attacks. ^oThe guardian scales with player damage bonuses.
 
 tagItemSkillC005PetSkill01=Frenzied Roar
 tagItemSkillC005PetSkill01Desc=The guardian roars, emboldening nearby allies.
