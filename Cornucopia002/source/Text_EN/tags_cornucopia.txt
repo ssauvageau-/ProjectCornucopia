@@ -18,6 +18,15 @@ tagItemSkillCornC03Desc=An aura of sickly Miasma swirls around you as if alive. 
 tagItemSkillCornC04Name=Praetorian Loyalty
 tagItemSkillCornC04Desc=A Praetorian's Loyalty is both a reflection of their steadfast nature and a source of their unwavering strength.
 
+tagItemSkillCornC05Name=Starfall
+tagItemSkillCornC05Desc=Frozen stars scream down from the heavens.
+
+tagItemSkillCornC06Name=Void Tear
+tagItemSkillCornC06Desc=A tear in the realm of chaos opens, spitting out bolts of energy.
+
+tagItemSkillCornC07Name=Aura of Mourning
+tagItemSkillCornC07Desc=A cold aura of grief fills the air around you, empowering the attacks of you and your allies with icy despair.
+
 tagItemSkillCornB01Name=Pack Mentality
 tagItemSkillCornB01Desc=Push on with the vigor of a pack of Rifthounds.
 
