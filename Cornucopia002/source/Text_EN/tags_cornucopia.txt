@@ -27,6 +27,12 @@ tagItemSkillCornC06Desc=A tear in the realm of chaos opens, spitting out bolts o
 tagItemSkillCornC07Name=Aura of Mourning
 tagItemSkillCornC07Desc=A cold aura of grief fills the air around you, empowering the attacks of you and your allies with icy despair.
 
+tagItemSkillCornC08Name=Mutated Matriarch
+tagItemSkillCornC08Desc=Summon a rifthound matriarch that was tortured and experimented on by a mad Arcanist.
+
+tagItemSkillCornC09Name=Eldritch Aura
+tagItemSkillCornC09Desc=The Matriarch's infusion with Aether energies allows her to imbue her pack with Eldritch power.
+
 tagItemSkillCornB01Name=Pack Mentality
 tagItemSkillCornB01Desc=Push on with the vigor of a pack of Rifthounds.
 
