@@ -33,6 +33,8 @@ tagItemSkillCornC08Desc=Summon a rifthound matriarch that was tortured and exper
 tagItemSkillCornC09Name=Eldritch Aura
 tagItemSkillCornC09Desc=The Matriarch's infusion with Aether energies allows her to imbue her pack with Eldritch power.
 
+tagItemSkillCornC10Name=Blackwater Cocktails
+
 tagItemSkillCornB01Name=Pack Mentality
 tagItemSkillCornB01Desc=Push on with the vigor of a pack of Rifthounds.
 
