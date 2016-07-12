@@ -35,6 +35,9 @@ tagItemSkillCornC09Desc=The Matriarch's infusion with Aether energies allows her
 
 tagItemSkillCornC10Name=Blackwater Cocktails
 
+tagItemSkillCornC11Name=Riposte
+tagItemSkillCornC11Desc=You pivot, parry, and retaliate with a quick thrust. ^oRequires a sword.
+
 tagItemSkillCornB01Name=Pack Mentality
 tagItemSkillCornB01Desc=Push on with the vigor of a pack of Rifthounds.
 
