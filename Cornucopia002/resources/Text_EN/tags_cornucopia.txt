@@ -174,3 +174,5 @@ tagCompB015Desc="Soaked in the blood of the fallen, this accursed whetstone give
 
 tagCompB021Name=^kOleron's Blood
 tagCompB021Desc="Sacred blood of the war god."^w^n(Used in all weapons and jewelry)
+
+tagItemMutatedMatriach=Mutated Matriarch
