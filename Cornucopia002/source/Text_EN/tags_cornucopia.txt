@@ -53,6 +53,9 @@ tagClass04SkillDescription04C=A powerful pneumatic technique causes the ring of 
 tagClass03SkillName01E=Lightning Storm
 tagClass03SkillDescription01E=The storm raven calls forth a powerful lightning storm to electrocute swaths of foes.
 
+tagClass03SkillNameCorn01A=Entropic Rupture
+tagClass03SkillDescriptionCorn01A=Upon slaying a foe, the Doom Bolt utilizes the blood of the fallen to summon a well of entropic energies near other lifeforms.
+
 tagClass02SkillName09C=Quick Jacks
 tagClass02SkillDescription09C=Quick Jacks lose most of the stopping power of Stun Jacks but can be thrown in rapid succession to spread devastating electrical damage among large packs of foes.
 
