@@ -38,6 +38,15 @@ tagItemSkillCornC10Name=Blackwater Cocktails
 tagItemSkillCornC11Name=Riposte
 tagItemSkillCornC11Desc=You pivot, parry, and retaliate with a quick thrust. ^oRequires a sword.
 
+tagItemSkillCornC12Name=Infected Locusts
+tagItemSkillCornC12Desc=Unleash plagued locusts that spread a deadly virus.
+
+tagItemSkillCornC13Name=Warden's Fury
+tagItemSkillCornC13Desc=The Warden's undying rage still lingers on his instrument of pain, waiting to be unleashed once more.
+
+tagItemSkillCornC14Name=Aether Barrage
+tagItemSkillCornC14Desc=Cleave through the immaterial realms of aether, dispersing bursts of energy.
+
 tagItemSkillCornB01Name=Pack Mentality
 tagItemSkillCornB01Desc=Push on with the vigor of a pack of Rifthounds.
 
