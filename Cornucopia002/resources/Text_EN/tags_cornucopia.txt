@@ -47,6 +47,12 @@ tagItemSkillCornC13Desc=The Warden's undying rage still lingers on his instrumen
 tagItemSkillCornC14Name=Aether Barrage
 tagItemSkillCornC14Desc=Cleave through the immaterial realms of aether, dispersing bursts of energy.
 
+tagItemSkillCornC15Name=Aethersteel Orbiter
+tagItemSkillCornC15Desc=Legend has it that the mad Arcanist, Kallazar, was cast out of the Academy for his non-stop terrible puns.
+
+tagItemSkillCornC16Name=Barthollem's Inferno
+tagItemSkillCornC16Desc=Invoke the aid of the Herald of the Flame to incinerate your foes.
+
 tagItemSkillCornB01Name=Pack Mentality
 tagItemSkillCornB01Desc=Push on with the vigor of a pack of Rifthounds.
 
