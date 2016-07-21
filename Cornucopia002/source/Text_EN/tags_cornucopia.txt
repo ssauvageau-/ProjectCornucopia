@@ -45,13 +45,15 @@ tagItemSkillCornC13Name=Warden's Fury
 tagItemSkillCornC13Desc=The Warden's undying rage still lingers on his instrument of pain, waiting to be unleashed once more.
 
 tagItemSkillCornC14Name=Aether Barrage
-tagItemSkillCornC14Desc=Cleave through the immaterial realms of aether, dispersing bursts of energy.
+tagItemSkillCornC14Desc=Cleave through the planes of aether, dispersing bursts of energy.
 
 tagItemSkillCornC15Name=Aethersteel Orbiter
 tagItemSkillCornC15Desc=Legend has it that the mad Arcanist, Kallazar, was cast out of the Academy for his non-stop terrible puns.
 
 tagItemSkillCornC16Name=Barthollem's Inferno
 tagItemSkillCornC16Desc=Invoke the aid of the Herald of the Flame to incinerate your foes.
+
+tagItemSkillCornC17Desc=Olexra imbued her cousin's sword with some of her magic in the hopes of protecting him in the war. Nevertheless, he fell and Chillblaze was thought to be lost forever.
 
 tagItemSkillCornB01Name=Pack Mentality
 tagItemSkillCornB01Desc=Push on with the vigor of a pack of Rifthounds.
