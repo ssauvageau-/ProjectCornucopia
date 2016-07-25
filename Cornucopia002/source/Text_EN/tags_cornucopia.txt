@@ -55,6 +55,9 @@ tagItemSkillCornC16Desc=Invoke the aid of the Herald of the Flame to incinerate 
 
 tagItemSkillCornC17Desc=Olexra imbued her cousin's sword with some of her magic in the hopes of protecting him in the war. Nevertheless, he fell and Chillblaze was thought to be lost forever.
 
+tagItemSkillCornC18Name=Trollborne Presence
+tagItemSkillCornC18Description=The presence of a trollborne weapon imbues you and your allies with the trolls' exceptional resilience. ^oMust be toggled to maintain its effect.
+
 tagItemSkillCornB01Name=Pack Mentality
 tagItemSkillCornB01Desc=Push on with the vigor of a pack of Rifthounds.
 
