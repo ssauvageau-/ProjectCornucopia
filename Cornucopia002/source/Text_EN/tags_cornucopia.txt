@@ -58,6 +58,9 @@ tagItemSkillCornC17Desc=Olexra imbued her cousin's sword with some of her magic 
 tagItemSkillCornC18Name=Trollborne Presence
 tagItemSkillCornC18Description=The presence of a trollborne weapon imbues you and your allies with the trolls' exceptional resilience. ^oMust be toggled to maintain its effect.
 
+tagItemSkillCornC19Name=Mark of the False Gods
+tagItemSkillCornC19Desc=You brand your enemies with the mark of the forbidden ones, weakening their resistance to their dark magics.
+
 tagItemSkillCornB01Name=Pack Mentality
 tagItemSkillCornB01Desc=Push on with the vigor of a pack of Rifthounds.
 
