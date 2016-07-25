@@ -28,7 +28,7 @@ tagItemSkillCornC07Name=Aura of Mourning
 tagItemSkillCornC07Desc=A cold aura of grief fills the air around you, empowering the attacks of you and your allies with icy despair.
 
 tagItemSkillCornC08Name=Mutated Matriarch
-tagItemSkillCornC08Desc=Summon a rifthound matriarch that was tortured and experimented on by a mad Arcanist.
+tagItemSkillCornC08Desc=Summon a rifthound matriarch, twisted and tormented by the Arcane.
 
 tagItemSkillCornC09Name=Eldritch Aura
 tagItemSkillCornC09Desc=The Matriarch's infusion with Aether energies allows her to imbue her pack with Eldritch power.
@@ -48,10 +48,10 @@ tagItemSkillCornC14Name=Aether Barrage
 tagItemSkillCornC14Desc=Cleave through the planes of aether, dispersing bursts of energy.
 
 tagItemSkillCornC15Name=Aethersteel Orbiter
-tagItemSkillCornC15Desc=Legend has it that the mad Arcanist, Kallazar, was cast out of the Academy for his non-stop terrible puns.
+tagItemSkillCornC15Desc=Legend has it that the mad Arcanist, Kallazar, was cast out of the Academy for his perpetual, terrible puns.
 
 tagItemSkillCornC16Name=Barthollem's Inferno
-tagItemSkillCornC16Desc=Invoke the aid of the Herald of the Flame to incinerate your foes.
+tagItemSkillCornC16Desc=Invoke an aspect of Archon Barthollem to incinerate your foes.
 
 tagItemSkillCornC17Desc=Olexra imbued her cousin's sword with some of her magic in the hopes of protecting him in the war. Nevertheless, he fell and Chillblaze was thought to be lost forever.
 
