@@ -1,7 +1,7 @@
 templateName,database/templates/weapon_ranged2h.tpl,
 ActorName,,
 Class,WeaponHunting_Ranged2h,
-FileDescription,Crossbow - Cruse of Burrwitch,
+FileDescription,Crossbow - Curse of Burrwitch,
 basicProjectileName,records/fx/itemfx/projectiles/crossbow2h_projectilelife_fx01.dbr,
 piercingProjectile,33.0,
 hitSound,,
