@@ -14,7 +14,7 @@ skillConnectionOff,ui/skills/skillallocation/skills_connectoroffcenter.tex;ui/sk
 skillConnectionOn,ui/skills/skillallocation/skills_connectoroncenter.tex;ui/skills/skillallocation/skills_connectoroncenter.tex;ui/skills/skillallocation/skills_connectoroncenter.tex,
 isPetDisplayable,0,
 isPetBonusScaling,,
-skillTier,4,
+skillTier,5,
 skillMasteryLevelRequired,0,
 skillMaxLevel,16,
 skillSpecialAnimationName,Blitz,
