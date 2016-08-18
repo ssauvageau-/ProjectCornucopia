@@ -98,10 +98,12 @@ tagClass01SkillName02B=Rending Force
 tagClass01SkillDescription02B=Forcewave shatters enemy armor and resists, making them more susceptible to physical attacks.
 
 tagClass01SkillName01E=Shred
-tagClass01SkillDescription01E=For Sheriff Harmon Griffith, bringing law to the lands of Burrwitch sometimes meant cutting down several faraway criminals at once. ^oRequires a two-handed ranged weapon.
+tagClass01SkillDescription01E=For Sheriff Harmon Griffith, bringing law to the lands of Burrwitch sometimes meant cutting down several faraway criminals at once. ^oRequires a ranged weapon.
+
+tagClass01SkillName01F=Two-Handed Stance
 
 tagClass01SkillName01B=Fighting Form
-tagClass01SkillDescription01B=The fury of Cadence resonates with the target, causing heavy bleeding and striking additional nearby targets. ^oWith ranged weapons, Cadence will fire additional projectiles and has a chance to pierce through enemies.
+tagClass01SkillDescription01B=The fury of Cadence resonates with the target, causing heavy bleeding and striking additional nearby targets. ^o When used with a two-handed weapon, Cadence has a chance to unleash a shockwave.
 
 tagClass01SkillName01A=Cadence
 tagClass01SkillDescription01A=The use of weapon forms in combat gives your attacks a natural cadence with peaks and ebbs that, while predictable, are none the less effective and difficult to counter.  ^oWhen used as your default weapon attack, Cadence will magnify the power of periodic strikes.
