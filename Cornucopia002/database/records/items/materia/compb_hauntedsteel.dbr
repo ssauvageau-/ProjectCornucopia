@@ -1,7 +1,7 @@
 templateName,database/templates/itemrelic.tpl,
 ActorName,,
 Class,ItemRelic,
-FileDescription,All Weapons,
+FileDescription,All Weapons + Rings,
 completedRelicLevel,4,
 shardBitmap,items/craftingparts/components/component_a56_hauntedsteel_a.tex,
 relicBitmap,items/craftingparts/components/component_a56_hauntedsteel_b.tex,
