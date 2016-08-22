@@ -1113,7 +1113,7 @@ itemSkillName,records/skills/itemskills/componentskills/compb_silverspread_01.db
 itemSkillLevelEq,1,
 itemSkillAutoController,,
 racialBonusRace,Race004,
-racialBonusPercentDamage,5.0;10.0;15.0;20.0,
+racialBonusPercentDamage,1;2;3;6,
 racialBonusAbsoluteDamage,,
 racialBonusPercentDefense,,
 racialBonusAbsoluteDefense,,
