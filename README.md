@@ -8,4 +8,4 @@ Its secondary goal is to follow along with the 'vision' that Crate Entertainment
 
 Speaking of updates, Project Cornucopia has been consistently releasing updates of its own while incorporating changes made to the base game by Crate Entertainment...but only those which we believe are 'healthy for balance', or, rather, those which contribute to the aforemention first goal for the Project.
 
-Project Cornucopia has been featured in a couple mod merges as well, including - but not limited to - the Grimmer and Grimmest mod (http://www.grimdawn.com/forums/showthread.php?p=392078) and the DAIL mod (http://www.grimdawn.com/forums/showthread.php?t=38785).
+Project Cornucopia has been featured in a couple mod merges as well, including - but not limited to - the Grimmer and Grimmest mod (http://www.grimdawn.com/forums/showthread.php?p=392078),the DAIL mod (http://www.grimdawn.com/forums/showthread.php?t=38785), and the Grimarillion (http://grimdawn.com/forums/showthread.php?t=46352)!
