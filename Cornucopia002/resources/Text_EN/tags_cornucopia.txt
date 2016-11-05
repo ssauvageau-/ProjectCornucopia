@@ -61,6 +61,10 @@ tagItemSkillCornC18Description=The presence of a trollborne weapon imbues you an
 tagItemSkillCornC19Name=Mark of the False Gods
 tagItemSkillCornC19Desc=You brand your enemies with the mark of the forbidden ones, weakening their resistance to their dark magics.
 
+tagItemSkillCornD118Name=Invoker's Secret
+tagItemSkillCornD118Desc=The Invoker's mastery over magic has inspired many unusual techniques, including a little trick the Invoker used to deter foes from even coming near. ^oRequires a Staff, Caster Off-Hand or Shield.
+
+
 tagItemSkillCornB01Name=Pack Mentality
 tagItemSkillCornB01Desc=Push on with the vigor of a pack of Rifthounds.
 
