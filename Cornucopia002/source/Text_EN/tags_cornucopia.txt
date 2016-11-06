@@ -1,5 +1,7 @@
 #Skills
 
+ItemMasteryIncrement={+%d0} {^E}to {%s1}
+
 tagDevotion_B12=Bysmiel's Bonds
 tagDevotion_B12Desc=It is said that Bysmiel, the witch god, was headed to the gallows when she abandoned his mortal form and ascended into the heavens, her broken chains the only sign of her escape.
 
