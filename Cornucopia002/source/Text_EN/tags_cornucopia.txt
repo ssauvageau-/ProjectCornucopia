@@ -116,6 +116,9 @@ tagClass01SkillDescription01A=The use of weapon forms in combat gives your attac
 
 #Items
 
+tagCompA003Name=Sanctified Bone
+tagCompA003Desc="The purified bones of a paladin slain in righteous combat."^w^n(Used in chest armor only)
+
 tagCompA006Name=Mutagenic Ichor
 tagCompA006Desc="Discharge from the creatures of Cairn infected with otherwordly energies."^w^n(Used in all weapons, shields, caster off-hands, and jewelry)
 
@@ -195,7 +198,7 @@ tagCompB012Name=^kMark of Dreeg
 tagCompB012Desc="An inscription of a lidless eye dripping tears of vitriolic blood."^w^n(Used in all weapons, shields, caster off-hands, and jewelry)
 
 tagCompB013Name=^kHaunted Steel
-tagCompB013Desc="It fills your mind with the maddening whispers of trapped spirits."^w^n(Used in all weapons, shields, caster off-hands, and jewelry)
+tagCompB013Desc="It fills your mind with the maddening whispers of trapped spirits."^w^n(Used in all weapons, shields, caster off-hands, and rings)
 
 tagCompB014Name=^kShard of Beronath
 tagCompB014Desc="But a piece of the legendary spear that felled Beronath, yet still retains great power."^w^n(Used in melee weapons and jewelry)
