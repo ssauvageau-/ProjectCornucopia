@@ -1,0 +1,7 @@
+effectFile,fx/particlesystems/skillsclass03/pfx_sigilofdestruction_01b.pfx,
+Class,EffectEntity,
+Anchored,0,
+templateName,database/templates/effect.tpl,
+localOrientFix,1,
+canBeSoft,1,
+boneList,Bone_R_Weapon;Bone_L_Weapon,

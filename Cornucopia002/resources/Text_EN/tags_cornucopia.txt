@@ -8,6 +8,9 @@ tagDevotion_B12Desc=It is said that Bysmiel, the witch god, was headed to the ga
 tagItemSkillD236Name=Justicar's Guard
 tagItemSkillD236Desc=The Grand Arbiter stands resolute against any blow. ^oThis is a melee passive bonus.
 
+TagItemSkillCornB01Name=Bloodsworn Sigil
+TagItemSkillCornB01Desc=Creates an occult sigil on the ground that damages enemies with chaotic energies.
+
 tagItemSkillCornC01Name=Empyrion's Caress
 tagItemSkillCornC01Desc=The light of Empyrion mends the wounds and of nearby allies.
 
