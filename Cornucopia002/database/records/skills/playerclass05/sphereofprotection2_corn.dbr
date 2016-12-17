@@ -1,7 +1,7 @@
 templateName,database/templates/skill_modifier.tpl,
 ActorName,,
 Class,Skill_Modifier,
-FileDescription,cc resist + energy absorb,
+FileDescription,cc resist + energy absorb + DA,
 skillManaCost,,
 skillCooldownTime,,
 skillActiveDuration,,
