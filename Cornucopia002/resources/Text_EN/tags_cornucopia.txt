@@ -46,7 +46,7 @@ tagItemSkillCornC11Desc=You pivot, parry, and retaliate with a quick thrust. ^oR
 tagItemSkillCornC12Name=Infected Locusts
 tagItemSkillCornC12Desc=Unleash plagued locusts that spread a deadly virus.
 
-tagItemSkillCornC13Name=Warden's Fury
+tagItemSkillCornC13Name=Krieg's Fury
 tagItemSkillCornC13Desc=The Warden's undying rage still lingers on his instrument of pain, waiting to be unleashed once more.
 
 tagItemSkillCornC14Name=Aether Barrage
