@@ -1,0 +1,24 @@
+************************************
+
+Changelog Corn_Local
+
+************************************
+
+
+[03.3 12/18/2016]
+
+d001_axe.dbr [Butcher of Burrwitch]
+	physical damage (42 - 82) > (78 - 120)
+	bleed dot > life leech dot
+	duration (+35%) > (+50%)
+	life leech modifier (+65%) > (+75%)
+	OA (+55) > comparable
+	damage to human (+25%) > comparable
+	total damage (+20%) > comparable
+	pierce ratio (20%) > comparable
+	skill bonuses > comparable
+	phys req > unchanged
+	
+	Item skill [item_devour.dbr] (Exclusive to item)
+		life leech damage (110) > (165)
+		
