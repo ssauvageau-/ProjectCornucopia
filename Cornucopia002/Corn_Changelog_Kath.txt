@@ -4,21 +4,68 @@ Changelog Kathanious
 
 ************************************
 
-
 [03.3 12/18/2016]
 
+d005_axe.dbr [Damnation]
+	ilvl 75
+	itemSkillAutoController cast_@selfonhit > cast_@enemyonattack_15%.dbr
+	
+	Item skill [item_feastofsouls.dbr] Exclusive to item
+		cd 6s > 4s
+		
+d004_axe.dbr [Earthsplitter]
+	ilvl 75
+	augmentSkillName2 (+2)shieldhammer2_corn.dbr > (+2)cadence1_corn.dbr
+	
+	Item skill [item_splittheearth.dbr] Exclusive to item
+		weaponDmagePct 12% > 20%
+
+d003_axe.dbr [Brutallax]
+	ilvl 58 > 75
+	pierce ratio 16% > 20%
+	crit multiplyer 10% > 15%
+	bleed multiplyer 50% > 75%
+	pierce multiplyer 50% > 75%
+	OA +36 > comparable
+	skill bonuses > comparable
+	bonus damage 10 - 17 > 12 - 20
+	
+	Item skill [item_brutallize.dbr] Exclusive to item
+		cd 1.0s > 1.5s
+		pierce dmg 96 > 190
+		bleed dmg 124 > 250
+		
+d002_axe.dbr [Crescent Moon]
+	ilvl 50 > 75
+	conversion phys > cold > comparable
+	physical damage 69 - 89 > 50 - 74 25% reduction
+	cold damage  10  >  24  
+	cold multiplyer +58% > +75%
+	frostburn multiplyer +58% > +75%
+	pierce multiplyer +48% > +60%
+	skill +1 PA > +2 PA
+	
+	Item skill [item_moonglow.dbr] Exclusive to item
+		skillbuff_debuff.tpl
+		cooldown 3.0s > 2.0s
+		skillTargetRadius 0 > 2.0m
+		expansion Time 0 > 0.2s
+		unable to set max target
+		
 d001_axe.dbr [Butcher of Burrwitch]
-	physical damage (42 - 82) > (78 - 120)
+	ilvl 50 > 75
+	physical damage 42 - 82 > 78 - 120
 	bleed dot > life leech dot
-	duration (+35%) > (+50%)
-	life leech modifier (+65%) > (+75%)
-	OA (+55) > comparable
-	damage to human (+25%) > comparable
-	total damage (+20%) > comparable
-	pierce ratio (20%) > comparable
+	duration +35% > +50%
+	life leech modifier +65% > +75%
+	OA +55 > comparable
+	damage to human +25% > comparable
+	total damage +20% > comparable
+	pierce ratio 20% > comparable
 	skill bonuses > comparable
 	phys req > unchanged
 	
-	Item skill [item_devour.dbr] (Exclusive to item)
-		life leech damage (110) > (165)
+	Item skill [item_devour.dbr] Exclusive to item
+		life leech damage 110 > 165
+		
 		
