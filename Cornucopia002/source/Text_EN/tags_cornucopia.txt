@@ -11,6 +11,12 @@ tagItemSkillD236Desc=The Grand Arbiter stands resolute against any blow. ^oThis 
 TagItemSkillCornB01Name=Bloodsworn Sigil
 TagItemSkillCornB01Desc=Creates an occult sigil on the ground that damages enemies with chaotic energies.
 
+TagItemSkillCornB02Name=Chaos Core
+TagItemSkillCornB02Desc=Unleash the residual chaos magic left in this fallen defiler's husk.
+
+TagItemSkillCornB03Name=Groble Firecaller
+TagItemSkillCornB03Desc=Pleased with the violence of this effigy's wielder, the groble fire spirits deign to assist you in carnage.
+
 tagItemSkillCornC01Name=Empyrion's Caress
 tagItemSkillCornC01Desc=The light of Empyrion mends the wounds and of nearby allies.
 
