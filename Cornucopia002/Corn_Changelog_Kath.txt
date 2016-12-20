@@ -4,6 +4,53 @@ Changelog Kathanious
 
 ************************************
 
+
+[03.3 12/19/2016]
+
+d006_blunt1h.dbr [Dawnbreaker’s Sledge]
+	ilvl 65
+	OA 0 > 33
+
+d005_blunt1h.dbr [Plaguebearer of Dreeg]
+	OA 15 > 42
+	
+	item_petbonusd_plaguebearerofdreeg.dbr
+		poison multiplyer 0 > 40%
+		acid multiplyer 0 > 40%
+	
+d004_blunt1h.dbr [Herald of Blazing Ends]
+	ilvl 75
+	cast speed 18% > 13%
+	attack speed 0% > 13%
+	
+d002_blunt1h.dbr [Beacon of the Winter’s Veil]
+	ilvl 58 > 68
+	physical damage 12 - 103 > 24 - 143
+	crit damage multiplyer 8% > 10%
+	cold damage multiplyer 66% > 70%
+	frostburn damage multiplyer 66% > 70%
+	frostburn damage 40 > 55
+	OA > comparable
+	
+	Item skill [item_wintersveil.dbr]
+		weaponDamagePct 15% > 18%
+		cold damage 172 - 244 > 186 - 267
+
+d001_blunt1h.dbr [Death Omen]
+	ilvl 50 > 65
+	itemSkillAutoController cast_@enemyonanyhit_100% > cast_@enemyonanyhit_33%.dbr
+	augmentSkillName1 (+2)wpattack5_corn.dbr > (+2) passive2.dbr
+	physical damage 51 - 139 > 61 - 159
+	vitality damage 9 > 12
+	vitality multiplyer 55% > 65%
+	ADctH 6% > 7%
+	other stats > comparable
+	
+	Item skill [item_markofdeath.dbr] Exclusive to item
+		vitality damage 122 > 141
+		cd 2.0s > 0s
+		other stats > comparable
+	
 [03.3 12/18/2016]
 
 d005_axe.dbr [Damnation]
