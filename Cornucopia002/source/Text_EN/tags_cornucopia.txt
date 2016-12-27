@@ -75,6 +75,9 @@ tagItemSkillCornC19Desc=You brand your enemies with the mark of the forbidden on
 tagItemSkillCornD118Name=Invoker's Secret
 tagItemSkillCornD118Desc=The Invoker's mastery over magic has inspired many unusual techniques, including a little trick the Invoker used to deter foes from even coming near. ^oRequires a Staff, Caster Off-Hand or Shield.
 
+tagItemSkillD139Name=Might of Beronath
+tagItemSkillD139Desc=Channel the might of the great beast Beronath. {^n}^oRequires a shield.
+
 
 tagItemSkillCornB01Name=Pack Mentality
 tagItemSkillCornB01Desc=Push on with the vigor of a pack of Rifthounds.
