@@ -1,7 +1,7 @@
 templateName,database/templates/weapon_dagger.tpl,
 ActorName,,
 Class,WeaponMelee_Dagger,
-FileDescription,Dracarris,
+FileDescription,Dracarris Cornified 033,
 hitSound,records/sounds/items/weaponattacks/sword1h_impactdefault.dbr,
 swipeSound,records/sounds/items/weaponattacks/sword1h_swipe.dbr,
 weaponTrail,records/fx/fxtrails/defaultsword_fxtrail.dbr,
