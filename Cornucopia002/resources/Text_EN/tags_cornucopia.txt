@@ -5,6 +5,9 @@ ItemMasteryIncrement={+%d0} {^E}to {%s1}
 tagDevotion_B12=Bysmiel's Bonds
 tagDevotion_B12Desc=It is said that Bysmiel, the witch god, was headed to the gallows when she abandoned his mortal form and ascended into the heavens, her broken chains the only sign of her escape.
 
+#Basilisks Fang proc desc change (corn 033)
+tagItemSkillCornD221Desc=Foes you strike you become infected with basilisk blood which, just like the beast's unusual glare, can turn a creature to solid stone.
+
 tagItemSkillD236Name=Justicar's Guard
 tagItemSkillD236Desc=The Grand Arbiter stands resolute against any blow. ^oThis is a melee passive bonus.
 
@@ -77,6 +80,9 @@ tagItemSkillCornD118Desc=The Invoker's mastery over magic has inspired many unus
 
 tagItemSkillD139Name=Might of Beronath
 tagItemSkillD139Desc=Channel the might of the great beast Beronath. {^n}^oRequires a shield.
+
+tagItemSkillCornD01Name=Ulzuin's Flames
+tagItemSkillCornD01Desc=The flames of Ulzuin spread out amongst your foes, weakening them for further assault.
 
 
 tagItemSkillCornB01Name=Pack Mentality
