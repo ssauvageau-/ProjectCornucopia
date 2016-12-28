@@ -1,5 +1,5 @@
-templateName,database/templates/armor_feet.tpl,
-Class,ArmorProtective_Feet,
+templateName,database/templates/armor_head.tpl,
+Class,ArmorProtective_Head,
 actorHeight,1.000000,
 actorRadius,1.000000,
 allowTransparency,0,
