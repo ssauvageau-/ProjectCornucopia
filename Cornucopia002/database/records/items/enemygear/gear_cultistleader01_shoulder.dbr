@@ -1,5 +1,5 @@
-templateName,database/templates/armor_chest.tpl,
-Class,ArmorProtective_Chest,
+templateName,database/templates/armor_shoulders.tpl,
+Class,ArmorProtective_Shoulders,
 actorHeight,1.000000,
 actorRadius,1.000000,
 allowTransparency,0,

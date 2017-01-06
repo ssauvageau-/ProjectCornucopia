@@ -5,6 +5,9 @@ ItemMasteryIncrement={+%d0} {^E}to {%s1}
 tagDevotion_B12=Bysmiel's Bonds
 tagDevotion_B12Desc=It is said that Bysmiel, the witch god, was headed to the gallows when she abandoned his mortal form and ascended into the heavens, her broken chains the only sign of her escape.
 
+#Basilisks Fang proc desc change (corn 033)
+tagItemSkillCornD221Desc=Foes you strike you become infected with basilisk blood which, just like the beast's unusual glare, can turn a creature to solid stone.
+
 tagItemSkillD236Name=Justicar's Guard
 tagItemSkillD236Desc=The Grand Arbiter stands resolute against any blow. ^oThis is a melee passive bonus.
 
@@ -16,6 +19,12 @@ TagItemSkillCornB02Desc=Unleash the residual chaos magic left in this fallen def
 
 TagItemSkillCornB03Name=Groble Firecaller
 TagItemSkillCornB03Desc=Pleased with the violence of this effigy's wielder, the groble fire spirits deign to assist you in carnage.
+
+TagItemSkillCornB04Name=Viloth's Festering Pool
+TagItemSkillCornB04Desc=The Corruptor's pool of ice and acid below forms below your enemy's feet, ensuring a gruesome death.
+
+TagItemSkillCornB05Name=Underdweller's Tenacity
+TagItemSkillCornB05Desc=The harder his life became, the harder Gollus clung to it.
 
 tagItemSkillCornC01Name=Empyrion's Caress
 tagItemSkillCornC01Desc=The light of Empyrion mends the wounds and of nearby allies.
@@ -77,6 +86,12 @@ tagItemSkillCornD118Desc=The Invoker's mastery over magic has inspired many unus
 
 tagItemSkillD139Name=Might of Beronath
 tagItemSkillD139Desc=Channel the might of the great beast Beronath. {^n}^oRequires a shield.
+
+tagItemSkillCornD01Name=Ulzuin's Flames
+tagItemSkillCornD01Desc=The flames of Ulzuin spread out amongst your foes, weakening them for further assault.
+
+tagItemSkillCornD02Name=Whirlwind
+tagItemSkillCornD02Desc=In the blink of an eye, hundreds of phantasmal blades encircle you at lethal speed, cutting down adjacent foes.
 
 
 tagItemSkillCornB01Name=Pack Mentality
