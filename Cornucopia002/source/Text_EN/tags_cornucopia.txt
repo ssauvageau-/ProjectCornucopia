@@ -81,6 +81,12 @@ tagItemSkillCornD118Desc=The Invoker's mastery over magic has inspired many unus
 tagItemSkillD139Name=Might of Beronath
 tagItemSkillD139Desc=Channel the might of the great beast Beronath. {^n}^oRequires a shield.
 
+tagItemSkillCornD01Name=Ulzuin's Flames
+tagItemSkillCornD01Desc=The flames of Ulzuin spread out amongst your foes, weakening them for further assault.
+
+tagItemSkillCornD02Name=Whirlwind
+tagItemSkillCornD02Desc=In the blink of an eye, hundreds of phantasmal blades encircle you at lethal speed, cutting down adjacent foes.
+
 
 tagItemSkillCornB01Name=Pack Mentality
 tagItemSkillCornB01Desc=Push on with the vigor of a pack of Rifthounds.
