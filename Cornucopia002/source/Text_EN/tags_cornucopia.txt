@@ -93,6 +93,8 @@ tagItemSkillCornD01Desc=The flames of Ulzuin spread out amongst your foes, weake
 tagItemSkillCornD02Name=Whirlwind
 tagItemSkillCornD02Desc=In the blink of an eye, hundreds of phantasmal blades encircle you at lethal speed, cutting down adjacent foes.
 
+TagItemSkillCornD03Name=Carnage
+TagItemSkillCornD03Desc=The most bloodthirsty killers seem to find vitality in the deaths of their many victims.
 
 tagItemSkillCornB01Name=Pack Mentality
 tagItemSkillCornB01Desc=Push on with the vigor of a pack of Rifthounds.
