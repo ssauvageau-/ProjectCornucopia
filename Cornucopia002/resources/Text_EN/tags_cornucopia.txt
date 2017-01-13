@@ -26,6 +26,9 @@ TagItemSkillCornB04Desc=The Corruptor's pool of ice and acid below forms below y
 TagItemSkillCornB05Name=Underdweller's Tenacity
 TagItemSkillCornB05Desc=The harder his life became, the harder Gollus clung to it.
 
+tagItemSkillCornB06Name=Curse of Arkovia
+tagItemSkillCornB06Desc=Much like their wrath, the punishment of the Arkovians will be eternal and severe.
+
 tagItemSkillCornC01Name=Empyrion's Caress
 tagItemSkillCornC01Desc=The light of Empyrion mends the wounds and of nearby allies.
 
