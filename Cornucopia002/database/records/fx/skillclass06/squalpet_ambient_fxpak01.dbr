@@ -1,0 +1,5 @@
+activateSound,records/sounds/skillsounds/nonplayer/hero/spak_chillbane_blizzard_loop.dbr,
+disturbanceRadius,2.000000,
+Class,FxPak,
+templateName,database/templates/fxpak.tpl,
+particleEffectNames,records/fx/skillclass06/squalpet_ambient_fx01.dbr,

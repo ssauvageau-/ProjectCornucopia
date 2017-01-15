@@ -41,6 +41,13 @@ tagItemSkillCornB09Desc=Your need to kill gnaws at your very life but also fills
 tagItemSkillCornB10Name=Scorn for Humanity
 tagItemSkillCornB10Desc=You share your hatred for humanity with your allies, increasing your party's killing intent.
 
+tagItemSkillCornB11Name=Hailstorm
+tagItemSkillCornB11Desc=Conjure a raging hailstorm that batters foes with falling ice. 
+tagItemSkillCornBName01_Pet=Tempest
+
+tagItemSkillCornB12Name=True Power
+tagItemSkillCornB12Desc=You are strong, but now you will face my true powerRRAAAARRRRRGGGGGHHHHHHH!
+
 tagItemSkillCornC01Name=Empyrion's Caress
 tagItemSkillCornC01Desc=The light of Empyrion mends the wounds and of nearby allies.
 
