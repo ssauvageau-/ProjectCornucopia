@@ -32,6 +32,15 @@ tagItemSkillCornB06Desc=Much like their wrath, the punishment of the Arkovians w
 tagItemSkillCornB07Name=Nightmage's Frost
 tagItemSkillCornB07Desc=Those targeted by the Nightmage would be subjected to the cruelest of chills.
 
+tagItemSkillCornB08Name=Carnage
+tagItemSkillCornB08Desc=The most notorious of mass murderers find vitality in the death and slaughter they cause.
+
+tagItemSkillCornB09Name=Bloodlust
+tagItemSkillCornB09Desc=Your need to kill gnaws at your very life but also fills you with a powerful bloodlust.
+
+tagItemSkillCornB10Name=Scorn for Humanity
+tagItemSkillCornB10Desc=You share your hatred for humanity with your allies, increasing your party's killing intent.
+
 tagItemSkillCornC01Name=Empyrion's Caress
 tagItemSkillCornC01Desc=The light of Empyrion mends the wounds and of nearby allies.
 
