@@ -29,6 +29,9 @@ tagItemSkillCornB05Desc=The harder his life became, the harder Gollus clung to i
 tagItemSkillCornB06Name=Curse of Arkovia
 tagItemSkillCornB06Desc=Much like their wrath, the punishment of the Arkovians will be eternal and severe.
 
+tagItemSkillCornB07Name=Nightmage's Frost
+tagItemSkillCornB07Desc=Those targeted by the Nightmage would be subjected to the cruelest of chills.
+
 tagItemSkillCornC01Name=Empyrion's Caress
 tagItemSkillCornC01Desc=The light of Empyrion mends the wounds and of nearby allies.
 
