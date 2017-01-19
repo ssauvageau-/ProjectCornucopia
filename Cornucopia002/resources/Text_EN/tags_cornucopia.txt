@@ -58,6 +58,17 @@ tagItemSkillCornB15Name=Summon Hellion
 tagItemSkillCornB15Desc=Seeking to reduce the risk of a summoning backlash, masters of the Bloodsworn devised a method to bind fiends to runes scribed onto their armaments. Their favored pet is now yours to command.
 tagItemSkillCornB15PetDesc=Bound Hellion
 
+tagItemSkillCornB16Name=Peering into Madness
+tagItemSkillCornB16Desc=Dreeg has blessed you with a sliver of insight into the Eldritch. The visions cling to your very essence, and may infect the minds of those who antagonize you. 
+
+tagItemSkillCornB17Name=Aether Blast
+
+tagItemSkillCornB18Name=Spectral Frost
+tagItemSkillCornB18Desc=Release a wave of netherworldly frost, freezing your enemies through body and spirit.
+
+tagItemSkillCornB19Name=Might of Kilrian
+tagItemSkillCornB19Desc=The dark flames of Kilrian clung to his soul, forever igniting him with a hatred for all things living. His sins are now your strength.
+
 tagItemSkillCornC01Name=Empyrion's Caress
 tagItemSkillCornC01Desc=The light of Empyrion mends the wounds and of nearby allies.
 
@@ -125,6 +136,11 @@ tagItemSkillCornD01Desc=The flames of Ulzuin spread out amongst your foes, weake
 tagItemSkillCornD02Name=Whirlwind
 tagItemSkillCornD02Desc=In the blink of an eye, hundreds of phantasmal blades encircle you at lethal speed, cutting down adjacent foes.
 
+tagItemSkillCornD03Name=Fade from Reality
+tagItemSkillCornD03Desc=When a foe lands a particularly crippling blow, the protective nature of this mantle will fade you out of the physical realm so that you can recover. ^oRequires a Caster Off-Hand or Weapon.
+
+tagItemSkillCornD04Name=Invoker's Blaze
+tagItemSkillCornD04Desc=A surging maelstrom of flame and ice manifests itself at your command.
 
 tagItemSkillCornB01Name=Pack Mentality
 tagItemSkillCornB01Desc=Push on with the vigor of a pack of Rifthounds.
