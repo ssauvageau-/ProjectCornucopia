@@ -48,6 +48,16 @@ tagItemSkillCornBName01_Pet=Tempest
 tagItemSkillCornB12Name=True Power
 tagItemSkillCornB12Desc=You are strong, but now you will face my true powerRRAAAARRRRRGGGGGHHHHHHH!
 
+tagItemSkillCornB13Name=Possessed Commander
+tagItemSkillCornB13Desc=Your vast experience fighting the Aether allows you to both empower your allies attacks as well as bolster their defenses against the corruption. ^oThis ability must be toggled to maintain its effect.
+
+tagItemSkillCornB14Name=Aether Discharge
+tagItemSkillCornB14Desc=A discharge of aether-lightning erupts around you, damaging nearby foes.
+
+tagItemSkillCornB15Name=Summon Hellion
+tagItemSkillCornB15Desc=Seeking to reduce the risk of a summoning backlash, masters of the Bloodsworn devised a method to bind fiends to runes scribed onto their armaments. Their favored pet is now yours to command.
+tagItemSkillCornB15PetDesc=Bound Hellion
+
 tagItemSkillCornC01Name=Empyrion's Caress
 tagItemSkillCornC01Desc=The light of Empyrion mends the wounds and of nearby allies.
 
