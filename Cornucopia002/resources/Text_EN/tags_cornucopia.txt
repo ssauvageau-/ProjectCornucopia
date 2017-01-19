@@ -69,6 +69,12 @@ tagItemSkillCornB18Desc=Release a wave of netherworldly frost, freezing your ene
 tagItemSkillCornB19Name=Might of Kilrian
 tagItemSkillCornB19Desc=The dark flames of Kilrian clung to his soul, forever igniting him with a hatred for all things living. His sins are now your strength.
 
+tagItemSkillCornB20Name=Overseer's Gaze
+tagItemSkillCornB20Desc=Pulled from a fresh corpse, the eye in your hand quivers and twitches, ever-staring. Its planar gaze finds weakness in flesh, and reveals it to you.
+
+tagItemSkillCornB21Name=Burning Stare
+tagItemSkillCornB21Desc=You bring new meaning to making people feel like your eyes are "burning holes through" them. Because your eyes actually burn holes through them.
+
 tagItemSkillCornC01Name=Empyrion's Caress
 tagItemSkillCornC01Desc=The light of Empyrion mends the wounds and of nearby allies.
 
