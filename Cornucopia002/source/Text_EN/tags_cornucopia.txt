@@ -78,6 +78,9 @@ tagItemSkillCornB21Desc=You bring new meaning to making people feel like your ey
 tagItemSkillCornB22Name=Blackflame Veil
 tagItemSkillCornB22Desc=You shroud yourself in an aura of chaosflame, scorching all foes who draw too close.
 
+tagItemSkillCornB23Name=Ball of Hate
+tagItemSkillCornB23Desc=Upon donning this helm you hear the whispers and ravings of wrath and madness. The voices help you channel your hatred into physical form, a sphere of baleful spite which whirls around you angrily.
+
 tagItemSkillCornC01Name=Empyrion's Caress
 tagItemSkillCornC01Desc=The light of Empyrion mends the wounds and of nearby allies.
 
@@ -294,3 +297,4 @@ tagCompB021Name=^kOleron's Blood
 tagCompB021Desc="Sacred blood of the war god."^w^n(Used in all weapons and jewelry)
 
 tagItemMutatedMatriach=Mutated Matriarch
+tagcornRelicSkillC012Desc=Push the advantage, unleashing a flurry of attacks upon landing a critical blow.
