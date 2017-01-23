@@ -79,7 +79,16 @@ tagItemSkillCornB22Name=Blackflame Veil
 tagItemSkillCornB22Desc=You shroud yourself in an aura of chaosflame, scorching all foes who draw too close.
 
 tagItemSkillCornB23Name=Ball of Hate
-tagItemSkillCornB23Desc=Upon donning this helm you hear the whispers and ravings of wrath and madness. The voices help you channel your hatred into physical form, a sphere of baleful spite which whirls around you angrily.
+tagItemSkillCornB23Desc=While this helm you hear whispers and ravings of wrath and madness. The voices help you channel your hatred into physical form, a sphere of baleful spite which whirls around you angrily.
+
+tagItemSkillCornB24Name=Primordian's Venom
+tagItemSkillCornB24Desc=Enriched by shamanistic insights, the Forgotten One's venom corrodes your opponent's veins and saps their defenses.
+
+tagItemSkillCornB25Name=One with Death
+tagItemSkillCornB25Desc=By entering a trance-like state your armaments are empowered with netherworldy magic, but maintaining such power requires extreme concentration.
+
+tagItemSkillCornB26Name=Siphon Soul
+tagItemSkillCornB26Desc=To your surprise, a corrupt arcanist seems to have bound a malevolent spirit to this shoulderpad. It promises you, its new master, a symbiotic relationship so long as you let it feed on the life force of your fallen enemies.
 
 tagItemSkillCornC01Name=Empyrion's Caress
 tagItemSkillCornC01Desc=The light of Empyrion mends the wounds and of nearby allies.
