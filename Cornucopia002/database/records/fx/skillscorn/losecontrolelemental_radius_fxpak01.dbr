@@ -1,7 +1,7 @@
 templateName,database/templates/fxpak.tpl,
 ActorName,,
 Class,FxPak,
-FileDescription,~4.8 Aether,
+FileDescription,~4.8 elemental,
 particleEffectNames,records/fx/skillscorn/losecontrolelemental_radius_fx.dbr,
 meshEffectNames,,
 activateSound,records/sounds/skillsounds/class05/spak_arcanetempest.dbr,

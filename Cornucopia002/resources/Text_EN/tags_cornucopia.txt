@@ -90,6 +90,15 @@ tagItemSkillCornB25Desc=By entering a trance-like state your armaments are empow
 tagItemSkillCornB26Name=Siphon Soul
 tagItemSkillCornB26Desc=To your surprise, a corrupt arcanist seems to have bound a malevolent spirit to this shoulderpad. It promises you, its new master, a symbiotic relationship so long as you let it feed on the life force of your fallen enemies.
 
+tagItemSkillCornB27Name=Guthook
+tagItemSkillCornB27Desc=The spirit of this belt still hungers for entrails. A chained hook lashes out at your enemies whenever the belt is immersed by the smell of blood.
+
+tagItemSkillCornB28Name=Iskandra's Triumph
+tagItemSkillCornB28Desc=After years of effort, Iskandra finally succeeded in being able to imbue weapons with a simpler version of her Elemental Exchange spell. Over time the prospect of her accomplishment changing the face of war for the worst caused her to err on the side of caution. Despite being a triumph in the Arcane Arts, Iskandra and her most trusted students reclaimed and destroyed as many traces of this ability as they could.  ^oRequires a focus or shield.
+
+tagItemSkillCorn29Name=Ruler of the Damned
+tagItemSkillCorn29Desc=By channeling Energy through this crown you project it's dark yet regal aura outward, empowering you and your allies' affinity for dark magic.
+
 tagItemSkillCornC01Name=Empyrion's Caress
 tagItemSkillCornC01Desc=The light of Empyrion mends the wounds and of nearby allies.
 
@@ -307,3 +316,6 @@ tagCompB021Desc="Sacred blood of the war god."^w^n(Used in all weapons and jewel
 
 tagItemMutatedMatriach=Mutated Matriarch
 tagcornRelicSkillC012Desc=Push the advantage, unleashing a flurry of attacks upon landing a critical blow.
+
+tagcornRelicSkillB012Name=Two Become One
+tagcornRelicSkillB012Desc=Your dual arts have reached their absolute pinnacle. Your two weapons act in comeplete unity, striking the enemy three times with complete fluidity. It is your enemy's honor to be slain by such a beautiful attack.
