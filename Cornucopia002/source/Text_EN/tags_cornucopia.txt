@@ -99,6 +99,9 @@ tagItemSkillCornB28Desc=After years of effort, Iskandra finally succeeded in bei
 tagItemSkillCorn29Name=Ruler of the Damned
 tagItemSkillCorn29Desc=By channeling Energy through this crown you project it's dark yet regal aura outward, empowering you and your allies' affinity for dark magic.
 
+tagItemSkillCornB30Name=Wit's End
+tagItemSkillCornB30Desc=Pull out all the stops as you near your wit's end.
+
 tagItemSkillCornC01Name=Empyrion's Caress
 tagItemSkillCornC01Desc=The light of Empyrion mends the wounds and of nearby allies.
 
