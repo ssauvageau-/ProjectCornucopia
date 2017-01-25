@@ -172,6 +172,9 @@ tagItemSkillCornD03Desc=When a foe lands a particularly crippling blow, the prot
 tagItemSkillCornD04Name=Invoker's Blaze
 tagItemSkillCornD04Desc=A surging maelstrom of flame and ice manifests itself at your command.
 
+tagItemSkillCornD05Name=Arc
+tagItemSkillCornD05Desc=Ulzuin's incendiary power is limitless, and melts the physical forms of nearby enemies when unleashed.
+
 tagItemSkillCornB01Name=Pack Mentality
 tagItemSkillCornB01Desc=Push on with the vigor of a pack of Rifthounds.
 
