@@ -2,12 +2,21 @@ templateName,database/templates/skill_buffselfduration.tpl,
 ActorName,,
 Class,Skill_BuffSelfDuration,
 FileDescription,,
+<<<<<<< HEAD
 instantCast,0,
 skillActiveDuration,6.0,
 skillActiveLifeCost,,
 skillActiveManaCost,,
 skillDisplayName,tagRelicSkillC004Name,
 skillBaseDescription,tagRelicSkillC004Desc,
+=======
+instantCast,1,
+skillActiveDuration,6.0,
+skillActiveLifeCost,,
+skillActiveManaCost,,
+skillDisplayName,tagItemSkillCornB30Name,
+skillBaseDescription,tagItemSkillCornB30Desc,
+>>>>>>> bcf3c805860c4f55840896912a2066ee831186a0
 skillUpBitmapName,ui/skills/icons/itemskills/skillicon_fightingspiritgreenup.tex,
 skillDownBitmapName,ui/skills/icons/itemskills/skillicon_fightingspiritgreendown.tex,
 skillConnectionOff,,
@@ -52,7 +61,11 @@ skillTemplates,,
 skillBlackList,,
 templateAutoCast,,
 skillExperienceLevels,,
+<<<<<<< HEAD
 skillCooldownTime,9.0,
+=======
+skillCooldownTime,3.0,
+>>>>>>> bcf3c805860c4f55840896912a2066ee831186a0
 skillManaCost,,
 propName,,
 propName1,,

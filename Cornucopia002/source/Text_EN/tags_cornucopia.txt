@@ -99,6 +99,9 @@ tagItemSkillCornB28Desc=After years of effort, Iskandra finally succeeded in bei
 tagItemSkillCorn29Name=Ruler of the Damned
 tagItemSkillCorn29Desc=By channeling Energy through this crown you project it's dark yet regal aura outward, empowering you and your allies' affinity for dark magic.
 
+tagItemSkillCornB30Name=Wit's End
+tagItemSkillCornB30Desc=Pull out all the stops as you near your wit's end.
+
 tagItemSkillCornC01Name=Empyrion's Caress
 tagItemSkillCornC01Desc=The light of Empyrion mends the wounds and of nearby allies.
 
@@ -171,6 +174,9 @@ tagItemSkillCornD03Desc=When a foe lands a particularly crippling blow, the prot
 
 tagItemSkillCornD04Name=Invoker's Blaze
 tagItemSkillCornD04Desc=A surging maelstrom of flame and ice manifests itself at your command.
+
+tagItemSkillCornD05Name=Arc
+tagItemSkillCornD05Desc=Ulzuin's incendiary power is limitless, and melts the physical forms of nearby enemies when unleashed.
 
 tagItemSkillCornB01Name=Pack Mentality
 tagItemSkillCornB01Desc=Push on with the vigor of a pack of Rifthounds.
