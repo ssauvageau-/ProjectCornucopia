@@ -102,6 +102,26 @@ tagItemSkillCorn29Desc=By channeling Energy through this crown you project it's 
 tagItemSkillCornB30Name=Wit's End
 tagItemSkillCornB30Desc=Pull out all the stops as you near your wit's end.
 
+tagItemSkillCornB31Name=Shattered Ice
+tagItemSkillCornB31Desc=Launch orbs rock solid ice to shatter against your enemies.
+
+tagItemSkillCornB32Name=Ikrix's Carapace
+tagItemSkillCornB32Desc=Enchant your armor to absorb, amplify, and discharge the kinetic energy of your enemies' blows.
+
+tagItemSkillCornB33Name=Rogue Stormbearer
+tagItemSkillCornB33Desc=Not all who joined Kymon's ranks stayed. Some came only for power and fortune, only to slink away when new opportunity presented itself. One such rogue stormbearer has decided to throw her lot in with you.
+
+tagItemSkillCornB34Name=Mark of Valdaran
+tagItemSkillCornB34Desc=Valdaran, the Storm Scourge was known for crippling his prey's resistances before striking them down. Studying his corpse and lightning-infused aether crystals has granted you insight into one of his magical curses.
+
+tagItemSkillCornB35Name=Benn'Jahr's Rage
+tagItemSkillCornB35Desc=Born deep in the void, Benn'Jahr always represented the most ferocious and brutal aspects of Chaos. Fashioning a set of pauldrons from his husk, you feel his ever-burning rage course through you, craving to be released.
+
+tagItemSkillCornB36Name=Blades of Death
+tagItemSkillCornB36Desc=Release a pair of blades infused with deathly magic that swirl around you.
+
+tagItemPetSkillCorn01Name=Scepter Attacks
+
 tagItemSkillCornC01Name=Empyrion's Caress
 tagItemSkillCornC01Desc=The light of Empyrion mends the wounds and of nearby allies.
 
@@ -226,6 +246,9 @@ tagClass01SkillName01A=Cadence
 tagClass01SkillDescription01A=The use of weapon forms in combat gives your attacks a natural cadence with peaks and ebbs that, while predictable, are none the less effective and difficult to counter.  ^oWhen used as your default weapon attack, Cadence will magnify the power of periodic strikes.
 
 #Items
+
+tag60OAshield=60% OA Shield
+tag60OAshieldlore=In loving memory of Rank Arkovian
 
 tagCompA003Name=Sanctified Bone
 tagCompA003Desc="The purified bones of a paladin slain in righteous combat."^w^n(Used in chest armor only)

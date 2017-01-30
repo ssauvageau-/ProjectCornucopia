@@ -88,7 +88,7 @@ skillActivatedSound,records/sounds/skillsounds/class05/spak_elementalinfusion.db
 skillDeactivatedSound,,
 charFxPakSelfNames,,
 endBuffSelfNames,,
-weaponEnchantment,records/fx/skillclass05/onewithdeath_weaponfx.dbr,
+weaponEnchantment,records/fx/skillscorn/onewithdeath_weaponfx.dbr,
 skillActivatedAuraName,,
 skillWeaponTintRed,,
 skillWeaponTintGreen,,
