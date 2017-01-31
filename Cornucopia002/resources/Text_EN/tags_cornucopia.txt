@@ -11,6 +11,9 @@ tagItemSkillCornD221Desc=Foes you strike you become infected with basilisk blood
 tagItemSkillD236Name=Justicar's Guard
 tagItemSkillD236Desc=The Grand Arbiter stands resolute against any blow. ^oThis is a melee passive bonus.
 
+tagItemSkillCornA01Name=Pack Mentality
+tagItemSkillCornA01Desc=Push on with the vigor of a pack of Rifthounds.
+
 tagItemSkillCornB01Name=Bloodsworn Sigil
 tagItemSkillCornB01Desc=Creates an occult sigil on the ground that damages enemies with chaotic energies.
 
@@ -70,7 +73,7 @@ tagItemSkillCornB19Name=Might of Kilrian
 tagItemSkillCornB19Desc=The dark flames of Kilrian clung to his soul, forever igniting him with a hatred for all things living. His sins are now your strength.
 
 tagItemSkillCornB20Name=Overseer's Gaze
-tagItemSkillCornB20Desc=Pulled from a fresh corpse, the eye in your hand quivers and twitches, ever-staring. Its planar gaze finds weakness in flesh, and reveals it to you.
+tagItemSkillCornB20Desc=Pulled from a fresh corpse, the eye in your hand quivers and twitches, ever-staring. Its planar gaze finds weakness in flesh and reveals it to you.
 
 tagItemSkillCornB21Name=Burning Stare
 tagItemSkillCornB21Desc=You bring new meaning to making people feel like your eyes are "burning holes through" them. Because your eyes actually burn holes through them.
@@ -198,8 +201,8 @@ tagItemSkillCornD04Desc=A surging maelstrom of flame and ice manifests itself at
 tagItemSkillCornD05Name=Arc
 tagItemSkillCornD05Desc=Ulzuin's incendiary power is limitless, and melts the physical forms of nearby enemies when unleashed.
 
-tagItemSkillCornB01Name=Pack Mentality
-tagItemSkillCornB01Desc=Push on with the vigor of a pack of Rifthounds.
+tagItemSkillCornD06Name=Wyrmlightning
+tagItemSkillCornD06Desc=The wyrmscale empowers you with fire and lightning. Those who strike you may get zapped by wyrmlightning.
 
 tagClass05SkillName16A=Olexra's Flash Freeze
 tagClass05SkillDescription16A=A victim of political intrigue, Olexra was condemned to the Black Legion where her former life of arcane academia turned into a bitter struggle to survive on the frontlines of a brutal war. Olexra quickly put her studies to practical use, developing a technique to flash freeze enemies who made it within striking distance. ^oThis spell freezes enemies for its duration. Enemies resistant to freeze effects will freeze intermittingly, if at all, but will endure the full duration of the other debuffs.
@@ -207,11 +210,13 @@ tagClass05SkillDescription16A=A victim of political intrigue, Olexra was condemn
 tagClass05SkillName02D=Manifestation
 tagClass05SkillDescription02D=Arcane energies manifest in many forms. Arcanists do, too; many who delve into the art of summoning often transfer some of their power to their loyal minions so that they can better serve the will of their masters. ^oRemoves the radius component from IEE (undisplayed in tooltip, but it works).
 
+tagCornClass04SkillDescription06C=Adept Nightblades can pull energy from the air or even foes their weapons come in contact with to deliver blows of intense cold.^o Grants flat cold damage at ultimate ranks.
+
 tagClass04SkillName04C=Ring of Venom
 tagClass04SkillDescription04C=A powerful pneumatic technique causes the ring of steel to draw energy from the nearby air, translating one's piercing damage into alchemically enhanced acid damage, whilst also petrifying afflicted enemies.
 
 tagClass03SkillName01E=Lightning Storm
-tagClass03SkillDescription01E=The storm raven calls forth a powerful lightning storm to electrocute swaths of foes.
+tagClass03SkillDescription01E=Your familiar calls forth a powerful lightning storm to electrocute swaths of foes.
 
 tagClass03SkillNameCorn01A=Entropic Rupture
 tagClass03SkillDescriptionCorn01A=Upon slaying a foe, the Doom Bolt utilizes the blood of the fallen to summon a well of entropic energies near other lifeforms.
