@@ -198,11 +198,23 @@ tagItemSkillCornD03Desc=When a foe lands a particularly crippling blow, the prot
 tagItemSkillCornD04Name=Invoker's Blaze
 tagItemSkillCornD04Desc=A surging maelstrom of flame and ice manifests itself at your command.
 
+tagItemSkillCornD05Name=Summon Thorned Horror
+tagItemSkillCornD05Desc=Briarthorns corrupted by the Grim Dawn were transformed into Thorned Horrors. However, your connection to nature has grown so strong that even these warped creatures will answer your call.
+
+TagItemPetSkillCornC01Name=Lightning Bolt
+TagItemPetSkillCornC02Name=Lightning Nova
+TagItemPetSkillCornD01Name=Razorwave
+TagItemPetSkillCornD02Name=Overwhelming Roar
+TagItemThornD01=Thorned Horror
+
 tagItemSkillCornD05Name=Arc
 tagItemSkillCornD05Desc=Ulzuin's incendiary power is limitless, and melts the physical forms of nearby enemies when unleashed.
 
 tagItemSkillCornD06Name=Wyrmlightning
 tagItemSkillCornD06Desc=The wyrmscale empowers you with fire and lightning. Those who strike you may get zapped by wyrmlightning.
+
+tagItemSkillCornD07Name=Hammerfall
+tagItemSkillCornD07Desc=A celestial hammer plummets from the sky, smashing your foes into smithereens.
 
 tagClass05SkillName16A=Olexra's Flash Freeze
 tagClass05SkillDescription16A=A victim of political intrigue, Olexra was condemned to the Black Legion where her former life of arcane academia turned into a bitter struggle to survive on the frontlines of a brutal war. Olexra quickly put her studies to practical use, developing a technique to flash freeze enemies who made it within striking distance. ^oThis spell freezes enemies for its duration. Enemies resistant to freeze effects will freeze intermittingly, if at all, but will endure the full duration of the other debuffs.
