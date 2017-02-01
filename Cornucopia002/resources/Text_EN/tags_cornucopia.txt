@@ -201,6 +201,9 @@ tagItemSkillCornD04Desc=A surging maelstrom of flame and ice manifests itself at
 tagItemSkillCornD05Name=Summon Thorned Horror
 tagItemSkillCornD05Desc=Briarthorns corrupted by the Grim Dawn were transformed into Thorned Horrors. However, your connection to nature has grown so strong that even these warped creatures will answer your call.
 
+tagItemSkillCornD06Name=Paladin's Vanguard
+tagItemSkillCornD06Desc=Divinesteel shall protect you and your allies from all foes, even if they be alien or demonic in nature.
+
 TagItemPetSkillCornC01Name=Lightning Bolt
 TagItemPetSkillCornC02Name=Lightning Nova
 TagItemPetSkillCornD01Name=Razorwave
