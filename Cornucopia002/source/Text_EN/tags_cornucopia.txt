@@ -219,6 +219,9 @@ tagItemSkillCornD10Desc=Briarthorns corrupted by the Grim Dawn were transformed 
 tagItemSkillCornD11Name=Night's Embrace
 tagItemSkillCornD11Desc=Enemies close to you feel night's cold embrace, lulling them to an eternal sleep.
 
+tagItemSkillCornD12Name=Fiend's Flesh
+tagItemSkillCornD12Desc=The flesh of a fiend protects you. Your wounds knit and your tissues mend rapidly. No longer hindered by flesh wounds, only critical blows will slay you. ^oAbsorbs chaos and aether damage.
+
 TagItemPetSkillCornC01Name=Lightning Bolt
 TagItemPetSkillCornC02Name=Lightning Nova
 TagItemPetSkillCornD01Name=Razorwave
