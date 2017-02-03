@@ -132,6 +132,9 @@ tagItemSkillCornB38Desc=Slice into your enemy's intestines and let them bleed ou
 tagItemSkillCornB39Name=Aetherburn Aura
 tagItemSkillCornB39Desc=Garb yourself in a thick cloud of aether energy that burns all foes who come too close.
 
+tagItemSkillCornB40Name=Make `em Bleed
+tagItemSkillCornB40Desc=Slice into your enemy's vitals with murderous intent, inflicting horrifically grievous wounds upon them.
+
 tagItemPetSkillCorn01Name=Scepter Attacks
 
 tagItemSkillCornC01Name=Empyrion's Caress
