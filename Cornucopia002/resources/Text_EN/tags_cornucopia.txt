@@ -129,6 +129,9 @@ tagItemSkillCornB37Desc=The blood of a gladiator courses through you. You rememb
 tagItemSkillCornB38Name=Gut
 tagItemSkillCornB38Desc=Slice into your enemy's intestines and let them bleed out.
 
+tagItemSkillCornB39Name=Aetherburn Aura
+tagItemSkillCornB39Desc=Garb yourself in a thick cloud of aether energy that burns all foes who come too close.
+
 tagItemPetSkillCorn01Name=Scepter Attacks
 
 tagItemSkillCornC01Name=Empyrion's Caress
