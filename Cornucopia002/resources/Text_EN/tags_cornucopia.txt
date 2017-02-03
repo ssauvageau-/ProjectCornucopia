@@ -217,7 +217,7 @@ tagItemSkillCornD07Name=Arc
 tagItemSkillCornD07Desc=Ulzuin's incendiary power is limitless, and melts the physical forms of nearby enemies when unleashed.
 
 tagItemSkillCornD08Name=Wyrmlightning
-tagItemSkillCornD08Desc=The wyrmscale empowers you with fire and lightning. Those who strike you may get zapped by wyrmlightning.
+tagItemSkillCornD08Desc=The wyrmscale empowers you with fire and lightning. Those who dare to strike you risk unleashing the dragon's retribution.
 
 tagItemSkillCornD09Name=Hammerfall
 tagItemSkillCornD09Desc=A celestial hammer plummets from the sky, smashing your foes into smithereens.
@@ -230,6 +230,9 @@ tagItemSkillCornD11Desc=Enemies close to you feel night's cold embrace, lulling 
 
 tagItemSkillCornD12Name=Fiend's Flesh
 tagItemSkillCornD12Desc=The flesh of a fiend protects you. Your wounds knit and your tissues mend rapidly. No longer hindered by flesh wounds, only critical blows will slay you. ^oAbsorbs chaos and aether damage.
+
+tagItemSkillCornD13Name=Dharma of the Immortal Sage
+tagItemSkillCornD13Desc=Despite his students' efforts, none gained sufficient insight into Tagatha's principle of the immortal Zen. Still, some of his relics remain behind to provide glimpses of inspiration in times of need.
 
 TagItemPetSkillCornC01Name=Lightning Bolt
 TagItemPetSkillCornC02Name=Lightning Nova
