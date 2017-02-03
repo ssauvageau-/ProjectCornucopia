@@ -271,7 +271,7 @@ tagClass02SkillName08D=High Potency
 tagClass02SkillDescription08D=This more potent formulation degrades your foes' ability to fight.
 
 tagClass02SkillName07B=Ulzuin's Chosen
-tagClass02SkillDescription07B=Those who have sacrificed much in the pursuit of pyrotechnics eventually come to be favored by Ulzuin, receiving his blessing in wreaking fiery devastation upon the world. Taking on this blessing empowers and hastens your attacks, all while consuming nearby enemies in thermovoltaic and entropic fires. ^oThe flat damage applies to enemies within the given radius of you. The other stats apply to the player character.
+tagClass02SkillDescription07B=Those who have sacrificed much in the pursuit of pyrotechnics eventually come to be favored by Ulzuin, receiving his blessing in wreaking fiery devastation upon the world. {^n}^oMust be toggled to maintain its effect.
 
 tagClass02SkillName05C="The Big One"
 tagClass02SkillDescription05C=Loads the Mortar Trap with a devastating bomb known only as "The Big One", which will fire at the beginning of the trap's barrage. The resulting colossal explosion will leave your enemies shellshocked, if they survive at all.
