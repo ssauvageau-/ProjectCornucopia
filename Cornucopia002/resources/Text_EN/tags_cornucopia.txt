@@ -135,6 +135,10 @@ tagItemSkillCornB39Desc=Garb yourself in a thick cloud of aether energy that bur
 tagItemSkillCornB40Name=Make `em Bleed
 tagItemSkillCornB40Desc=Slice into your enemy's vitals with murderous intent, inflicting horrifically grievous wounds upon them.
 
+tagItemSkillCornB41Name=Destabilization Aura
+tagItemSkillCornB41BName=Destabilization Totem
+tagItemSkillCornB41BDesc=Conjure up a totem which destabilizes the material plane around it, weakening foes to the arcane.
+
 tagItemPetSkillCorn01Name=Scepter Attacks
 
 tagItemSkillCornC01Name=Empyrion's Caress
