@@ -123,6 +123,9 @@ tagItemSkillCornB35Desc=Born deep in the void, Benn'Jahr always represented the 
 tagItemSkillCornB36Name=Blades of Death
 tagItemSkillCornB36Desc=Release a pair of blades infused with deathly magic that swirl around you.
 
+tagItemSkillCornB37Name=Killing Spree
+tagItemSkillCornB37Desc=The blood of a gladiator courses through you. You remember the cheers of the crowd pushing you further as you killed foes in quick succession, and your blood boils for more. ^oThis skill stacks with each kill.
+
 tagItemPetSkillCorn01Name=Scepter Attacks
 
 tagItemSkillCornC01Name=Empyrion's Caress

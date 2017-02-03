@@ -1,0 +1,8 @@
+localOrientFix,1,
+canBeSoft,0,
+Class,EffectEntity,
+templateName,database/templates/effect.tpl,
+effectFile,fx/particlesystems/skillsother/itemskills/pfx_earthward01.pfx,
+cameraShakeAmplitude,0.000000,
+cameraShakeDuration,0.000000,
+Anchored,0,
