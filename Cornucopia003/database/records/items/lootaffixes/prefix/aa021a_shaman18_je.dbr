@@ -1,7 +1,7 @@
 templateName,database/templates/lootrandomizer.tpl,
 Class,LootRandomizer,
 augmentSkillLevel1,1,
-augmentSkillName1,records/skills/playerclass06/stormcaller1_corn.dbr,
+augmentSkillName1,records/skills/playerclass06/stormcaller1.dbr,
 characterAttackSpeed,0.000000,
 characterAttackSpeedModifier,0.000000,
 characterBaseAttackSpeedTag,CharacterAttackSpeedAverage,
