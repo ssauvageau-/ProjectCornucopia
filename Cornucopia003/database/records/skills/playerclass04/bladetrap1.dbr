@@ -1,0 +1,7 @@
+templateName,database/templates/skill_attackprojectiledebuf.tpl,
+ActorName,,
+Class,Skill_AttackProjectileDebuf,
+FileDescription,,
+buffSkillName,records/skills/playerclass04/bladetrap1_buff.dbr,
+projectileNames,records/fx/skillclass04/bladetrap1_projectile_fx.dbr,
+fileNameHistoryEntry,mods/cornucopia001/records/skills/playerclass04/bladetrap1.dbr,

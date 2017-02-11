@@ -1,0 +1,4 @@
+templateName,database/templates/skill_attackbuff.tpl,
+Class,Skill_AttackBuff,
+buffSkillName,records/skills/itemskills/legendary/item_moonglow_buff.dbr,
+fileNameHistoryEntry,mods/cornucopia002/records/skills/itemskills/legendary/item_moonglow.dbr,

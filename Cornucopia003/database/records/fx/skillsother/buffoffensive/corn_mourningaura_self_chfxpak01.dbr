@@ -1,0 +1,5 @@
+templateName,database/templates/charfxpak.tpl,
+particleEffectAttachPoints,FXUnParentedCenter,
+particleEffectNames,records/fx/skillsother/buffoffensive/howlingwind_self_fx01.dbr,
+fileNameHistoryEntry,mods/cornucopia002/records/fx/skillsother/buffoffensive/howlingwind_self_chfxpak01.dbr,
+fileNameHistoryEntry,mods/cornucopia002/records/fx/skillsother/buffoffensive/mourningaura_self_chfxpak01.dbr,

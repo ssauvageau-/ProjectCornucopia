@@ -1,0 +1,6 @@
+templateName,database/templates/skill_buffradius.tpl,
+ActorName,,
+Class,Skill_BuffRadius,
+FileDescription,Cornified 033,
+instantCast,1,
+buffSkillName,records/skills/itemskills/legendary/item_battlecry2_buff.dbr,

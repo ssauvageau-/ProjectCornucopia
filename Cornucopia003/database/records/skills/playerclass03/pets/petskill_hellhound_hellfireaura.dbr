@@ -1,0 +1,6 @@
+templateName,database/templates/skill_buffradiustoggled.tpl,
+ActorName,,
+Class,Skill_BuffRadiusToggled,
+FileDescription,,
+instantCast,1,
+buffSkillName,records/skills/playerclass03/pets/petskill_hellhound_hellfireaura_buff.dbr,

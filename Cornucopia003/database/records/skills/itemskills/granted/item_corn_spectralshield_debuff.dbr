@@ -1,0 +1,6 @@
+templateName,database/templates/skill_attackbuff.tpl,
+ActorName,,
+Class,Skill_AttackBuff,
+FileDescription,,
+buffSkillName,records/skills/itemskills/granted/item_corn_spectralshield_debuff_buff.dbr,
+fileNameHistoryEntry,mods/cornucopia002/records/skills/itemskills/granted/item.dbr,

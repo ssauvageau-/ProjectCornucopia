@@ -1,0 +1,7 @@
+templateName,database/templates/skillautocastcontroller.tpl,
+FileDescription,100%,
+chanceToRun,100,
+targetType,Self,
+triggerParam,50.000000,
+triggerType,LowHealth,
+fileNameHistoryEntry,mods/cornucopia002/records/controllers/itemskills/cast_@selfat50%health_100%.dbr,

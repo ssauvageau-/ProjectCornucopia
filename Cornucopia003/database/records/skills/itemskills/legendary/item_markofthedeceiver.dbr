@@ -1,0 +1,6 @@
+templateName,database/templates/skill_attackbuff.tpl,
+ActorName,,
+Class,Skill_AttackBuff,
+FileDescription,Cornified 033,
+buffSkillName,records/skills/itemskills/legendary/item_markofthedeceiver_buff.dbr,
+fileNameHistoryEntry,mods/cornucopia002/records/skills/itemskills/legendary/item_markofthedeceiver_old.dbr,

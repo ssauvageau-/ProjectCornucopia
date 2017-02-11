@@ -1,0 +1,7 @@
+templateName,database/templates/skillautocastcontroller.tpl,
+FileDescription,25%,
+autoTargetRadius,22.000000,
+chanceToRun,25,
+targetType,Enemy,
+triggerType,AttackEnemyCrit,
+fileNameHistoryEntry,mods/cornucopia002/records/controllers/itemskills/cast_@enemyonattackcrit_25%.dbr,
