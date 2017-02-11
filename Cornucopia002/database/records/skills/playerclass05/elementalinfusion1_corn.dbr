@@ -1,5 +1,0 @@
-templateName,database/templates/skill_buffradiustoggled.tpl,
-Class,Skill_BuffRadiusToggled,
-buffSkillName,records/skills/playerclass05/elementalinfusion1_buff_corn.dbr,
-instantCast,0,
-fileNameHistoryEntry,mods/cornucopia002/records/skills/playerclass05/elementalinfusion1_corn.dbr,

@@ -1,8 +1,0 @@
-localOrientFix,0,
-emitterType,Standard,
-ActorName,Effects_Tree_Break_Debris01,
-boneList,Bone_R_Weapon;Bone_L_Weapon,
-Class,EffectEntity,
-templateName,database/templates/effect.tpl,
-effectFile,fx/particlesystems/skillsclass06/pfx_squalpet_ambient_fx01.pfx,
-Anchored,0,
