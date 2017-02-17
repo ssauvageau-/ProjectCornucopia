@@ -400,8 +400,11 @@ tagcornRelicSkillC012Desc=Push the advantage, unleashing a flurry of attacks upo
 tagcornRelicSkillB012Name=Two Become One
 tagcornRelicSkillB012Desc=Your dual arts have reached their absolute pinnacle. Your two weapons act in comeplete unity, striking the enemy three times with complete fluidity. It is your enemy's honor to be slain by such a beautiful attack.
 
-#cornucopia+10itemtags
+#CORNUCOPIA-+10-ITEM-TAGS
+tagClass02ItemSkillName01=^r100% Firestrike lightning->cold conversion
 
 tagClass03ItemSkillName01=^r+5 Dreeg's Evil Eye fragments
 
 tagClass04ItemSkillName01=^r+2 Phantasmal Blade projectiles
+
+tagClass05ItemSkillName01=^r60% PRM elemental->lightning conversion
