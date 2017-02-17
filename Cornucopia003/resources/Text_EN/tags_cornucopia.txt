@@ -289,7 +289,7 @@ tagClass01SkillDescription01E=For Sheriff Harmon Griffith, bringing law to the l
 tagClass01SkillName01F=Two-Handed Stance
 
 tagClass01SkillName01B=Fighting Form
-tagClass01SkillDescription01B=The fury of Cadence resonates with the target, causing heavy bleeding and striking additional nearby targets. ^o When used with a two-handed weapon, Cadence has a chance to unleash a shockwave.
+tagClass01SkillDescription01B=The fury of Cadence resonates with the target, causing heavy bleeding and striking additional nearby targets. ^o When used with a two-handed melee weapon, Cadence has a chance to unleash a shockwave.
 
 tagClass01SkillName01A=Cadence
 tagClass01SkillDescription01A=The use of weapon forms in combat gives your attacks a natural cadence with peaks and ebbs that, while predictable, are none the less effective and difficult to counter.  ^oWhen used as your default weapon attack, Cadence will magnify the power of periodic strikes.
@@ -399,3 +399,9 @@ tagcornRelicSkillC012Desc=Push the advantage, unleashing a flurry of attacks upo
 
 tagcornRelicSkillB012Name=Two Become One
 tagcornRelicSkillB012Desc=Your dual arts have reached their absolute pinnacle. Your two weapons act in comeplete unity, striking the enemy three times with complete fluidity. It is your enemy's honor to be slain by such a beautiful attack.
+
+#cornucopia+10itemtags
+
+tagClass03ItemSkillName01=^r+30% pierce chance Dreeg's Evil Eye
+
+tagClass04ItemSkillName01=^r+2 Phantasmal Blade projectiles
