@@ -402,6 +402,6 @@ tagcornRelicSkillB012Desc=Your dual arts have reached their absolute pinnacle. Y
 
 #cornucopia+10itemtags
 
-tagClass03ItemSkillName01=^r+30% pierce chance Dreeg's Evil Eye
+tagClass03ItemSkillName01=^r+5 Dreeg's Evil Eye fragments
 
 tagClass04ItemSkillName01=^r+2 Phantasmal Blade projectiles
