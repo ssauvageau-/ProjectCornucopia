@@ -1,7 +1,0 @@
-localOrientFix,0,
-canBeSoft,1,
-boneList,Bone_R_Weapon;Bone_L_Weapon,
-Class,EffectEntity,
-templateName,database/templates/effect.tpl,
-effectFile,fx/particlesystems/skillsclass05/pfx_sphereofprotection_02.pfx,
-Anchored,0,
