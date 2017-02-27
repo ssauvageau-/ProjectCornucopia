@@ -254,7 +254,11 @@ tagClass05SkillDescription16A=A victim of political intrigue, Olexra was condemn
 tagClass05SkillName02D=Manifestation
 tagClass05SkillDescription02D=Arcane energies manifest in many forms. Arcanists do, too; many who delve into the art of summoning often transfer some of their power to their loyal minions so that they can better serve the will of their masters. ^oRemoves the radius component from IEE (undisplayed in tooltip, but it works).
 
+tagClass05SkillDescription01A=The greatest of the Cortosian Arcanists, Panetti devoted himself to advancing the classic arcane missile. His triumph is an alteration that seemingly defies the laws of conservation of energy, causing the missile to be replicated on impact, spawning multiple copies of itself. ^rRequires 1 non-refundable skill point to use.
+
 tagCornClass04SkillDescription06C=Adept Nightblades can pull energy from the air or even foes their weapons come in contact with to deliver blows of intense cold.^o Grants flat cold damage at ultimate ranks.
+
+tagClass04SkillDescription01A=A legendary technique of the Nightblades. Hurl conjured blades infused with shadow magic that rend through flesh like paper. ^rRequires one non-refundable skill point to use.
 
 tagClass04SkillName04C=Ring of Venom
 tagClass04SkillDescription04C=A powerful pneumatic technique causes the ring of steel to draw energy from the nearby air, translating one's piercing damage into alchemically enhanced acid damage, whilst also petrifying afflicted enemies.
@@ -262,8 +266,12 @@ tagClass04SkillDescription04C=A powerful pneumatic technique causes the ring of 
 tagClass03SkillName01E=Lightning Storm
 tagClass03SkillDescription01E=Your familiar calls forth a powerful lightning storm to electrocute swaths of foes.
 
+tagClass03SkillDescription11A=Summons one of the infinite eyes of Dreeg, the great guardian of the hidden realm. The eye quickly speeds toward the target and then detonates itself. ^rRequires one non-refundable skill point to use.
+
 tagClass03SkillNameCorn01A=Entropic Rupture
 tagClass03SkillDescriptionCorn01A=Upon slaying a foe, the Doom Bolt utilizes the blood of the fallen to summon a well of entropic energies near other lifeforms.
+
+tagClass02SkillDescription03A=A deadly alchemical technique causes martial attacks to combust the air around the enemy. ^oWhen used as your default weapon attack, Fire Strike inflicts additional damage. ^rRequires one non-refundable skill point to use.
 
 tagClass02SkillName09C=Quick Jacks
 tagClass02SkillDescription09C=Quick Jacks lose most of the stopping power of Stun Jacks but can be thrown in rapid succession to spread devastating electrical damage among large packs of foes.
