@@ -1,9 +1,0 @@
-tagBoDTransmuterName=Communion of the Three
-tagBoDTransmuterDesc=The Three Witch Gods, while at times rivals with each other, were not unfamiliar with sharing their powers amongst themselves to further their needs.
-
-tagClass03SkillDescription04A=A binding with the great guardian confers some of Dreeg's regenerative ability, while wounds inflicted by enemies will spray caustic blood as though inflicted upon Dreeg himself. ^oThis effect is also applied to nearby allies. This ability must be toggled to maintain its effect.
-
-tagVitalAttack1Name=Vital Assault
-tagVitalAttack1Desc=Few Occultists chose to get their hands dirty with techniques beyond casting and summoning, but those that did knew how to proficiently target the lifeblood of their foes. ^oWhen used as your default weapon attack, Vital Assault inflicts additional damage.
-tagVitalAttack2Name=Life Leech
-tagVitalAttack2Desc=As you attack your foes with greater force, pull power from the arts of the occult to siphon the life of your foes into your own.
