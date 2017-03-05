@@ -1,0 +1,4 @@
+buffSkillName,records/skills/playerclass01/fieldcommand1buff.dbr,
+Class,Skill_BuffRadiusToggled,
+templateName,database/templates/skill_buffradiustoggled.tpl,
+instantCast,1,
