@@ -428,3 +428,8 @@ tagVitalAttack1Name=Vital Assault
 tagVitalAttack1Desc=Few Occultists chose to get their hands dirty with techniques beyond casting and summoning, but those that did knew how to proficiently target the lifeblood of their foes. ^oWhen used as your default weapon attack, Vital Assault inflicts additional damage.
 tagVitalAttack2Name=Life Leech
 tagVitalAttack2Desc=As you attack your foes with greater force, pull power from the arts of the occult to siphon the life of your foes into your own.
+
+#CORNUCOPIA-ENEMYTAGS
+
+tagEnemySkillCornA001Name=Gaze of Corruption
+tagEnemySkillCornA001Desc=Their eyes quiver and twitch, ever-staring. Their planar gaze finds weakness in flesh and exploits it, lowering your resistance.
