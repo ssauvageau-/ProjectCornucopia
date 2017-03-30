@@ -431,5 +431,9 @@ tagVitalAttack2Desc=As you attack your foes with greater force, pull power from 
 
 #CORNUCOPIA-ENEMYTAGS
 
+tagGolemRockBosslt01=Ryzanog
+tagGolemRockBosslt02=Volcun
+tagGolemRockBosslt03=Frigga
+
 tagEnemySkillCornA001Name=Gaze of Corruption
 tagEnemySkillCornA001Desc=Their eyes quiver and twitch, ever-staring. Their planar gaze finds weakness in flesh and exploits it, lowering your resistance.
