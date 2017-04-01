@@ -1,0 +1,7 @@
+templateName,database/templates/skill_buffradiustoggled.tpl,
+ActorName,,
+Class,Skill_BuffRadiusToggled,
+FileDescription,,
+buffSkillName,records/skills/cornnonplayerskills/bossskills/frigga_icearmoraura_buff.dbr,
+instantCast,1,
+fileNameHistoryEntry,mods/cornucopia003/records/skills/cornnonplayerskills/bossskills/frigga_icearmoraura.dbr,
