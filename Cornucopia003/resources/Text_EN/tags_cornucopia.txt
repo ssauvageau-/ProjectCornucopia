@@ -1,3 +1,15 @@
+#UI
+
+ItemMasteryIncrement={+%d0} {^E}to {%s1}
+
+tagCornCharAttributeDescription01=A cunning intellect improves your combat technique, making you increasingly dextrous. This stat increases your chances of landing and avoiding attacks/critical hits. ^o0.6 DA and 0.6 OA per 1 cunning.
+
+tagCornCharAttributeDescription02=Physical conditioning increases your endurance and capacity for pain, your ability to regenerate your wounds, and your general vitality. ^oMultiplies your hp regen by (1 + physique/3250). This is included above.
+
+tagCornCharAttributeDescription03=A strong spirit increases the flow of energy into your being, magnifying the damage of all your attacks. Those who train their spirit also regain energy faster, and have heigtened senses to help them avoid attacks. ^o0.25 DA per 1 spirit.
+
+tagCornCharBonusAllDmg=Bonus Total Damage:
+
 #Skills
 
 tagDevotion_B12=Bysmiel's Bonds

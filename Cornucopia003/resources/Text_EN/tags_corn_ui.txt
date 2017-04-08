@@ -1,1 +1,0 @@
-﻿ItemMasteryIncrement={+%d0} {^E}to {%s1}
