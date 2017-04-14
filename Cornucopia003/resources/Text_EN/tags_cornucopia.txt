@@ -198,7 +198,7 @@ tagItemSkillCornC15Desc=Legend has it that the mad Arcanist, Kallazar, was cast 
 tagItemSkillCornC16Name=Barthollem's Inferno
 tagItemSkillCornC16Desc=Invoke an aspect of Archon Barthollem to incinerate your foes.
 
-tagItemSkillCornC17Desc=Olexra imbued her cousin's sword with some of her magic in the hopes of protecting him in the war. Nevertheless, he fell and Chillblaze was thought to be lost forever.
+tagItemSkillCornC17Desc=Olexra enchanted her cousin's sword with some of her magic in the hopes of protecting him in the war. Nevertheless, he fell and Chillblaze was thought to be lost forever.
 
 tagItemSkillCornC18Name=Trollborne Presence
 tagItemSkillCornC18Description=The presence of a trollborne weapon imbues you and your allies with the trolls' exceptional resilience. ^oMust be toggled to maintain its effect.
@@ -259,6 +259,8 @@ TagItemPetSkillCornC02Name=Lightning Nova
 TagItemPetSkillCornD01Name=Razorwave
 TagItemPetSkillCornD02Name=Overwhelming Roar
 TagItemThornD01=Thorned Horror
+
+tagClass06SkillDescription14A=Enchant your attacks with the strength of the earth. Whenever you land a critical strike with your basic weapon attacks, the ground shakes with the force of the blow, reverberating around the point of impact in a shockwave. ^oRequires a two-handed weapon and activates off of default weapon attacks.
 
 tagClass05SkillName16A=Olexra's Flash Freeze
 tagClass05SkillDescription16A=A victim of political intrigue, Olexra was condemned to the Black Legion where her former life of arcane academia turned into a bitter struggle to survive on the frontlines of a brutal war. Olexra quickly put her studies to practical use, developing a technique to flash freeze enemies who made it within striking distance. ^oThis spell freezes enemies for its duration. Enemies resistant to freeze effects will freeze intermittingly, if at all, but will endure the full duration of the other debuffs.
@@ -443,7 +445,7 @@ tagVitalAttack2Desc=As you attack your foes with greater force, pull power from 
 
 #CORNUCOPIA-ENEMYTAGS
 
-tagGolemRockBosslt01=Ryzanog
+tagGolemRockBosslt01=Ryzar
 tagGolemRockBosslt02=Volcun
 tagGolemRockBosslt03=Frigga
 

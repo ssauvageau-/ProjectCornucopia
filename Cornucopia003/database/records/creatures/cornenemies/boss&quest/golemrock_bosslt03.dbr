@@ -2825,7 +2825,7 @@ specialAttack4SkillName,records/skills/cornnonplayerskills/bossskills/frigga_fre
 specialAttack4Timeout,2.0,
 specialAttack4Delay,6.0,
 specialAttack4Chance,100.0,
-specialAttack4Range,LongRange,
+specialAttack4Range,AnyRange,
 specialAttack5SkillName,records/skills/cornnonplayerskills/bossskills/frigga_frostessence.dbr,
 specialAttack5Timeout,0.5,
 specialAttack5Delay,999999.0,
